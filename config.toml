@@ -87,7 +87,7 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "Awesome360"
 
   paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
 
@@ -124,7 +124,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "Blog"
-  url = "/blog/"
+  url = "/blog/slug:"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
