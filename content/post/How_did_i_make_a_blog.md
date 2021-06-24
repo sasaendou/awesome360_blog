@@ -124,7 +124,7 @@ git submodule add の後は選んだテーマのgithubのURLになります。
 
 まずはGithubでリモートリポジトリを作成します。
 
-{{< img-post path="img/2021/06/" file="Github01.jpg" alt="Githubリモートリポジトリ作成" >}}
+{{< img-post path="/img/2021/06/" file="Github01.jpg" alt="Githubリモートリポジトリ作成" >}}
 
 > git remote add origin git@github.com:作成したリモートリポジトリ
 
@@ -144,11 +144,11 @@ gitの使い方を軽くレクチャーしたところでやっと、{{< url-lin
 
 まずはアカウントを作成して、Create siteのページが現れるかと思います。
 
-{{< img-post path="img/2021/06/" file="Netlify01.jpg" alt="Netlifyサイト作成" >}}
+{{< img-post path="/img/2021/06/" file="Netlify01.jpg" alt="Netlifyサイト作成" >}}
 
 以下のようにビルドの設定を行います。
 
-{{< img-post path="img/2021/06/" file="Netlify02.jpg" alt="Netlifyサイト作成" >}}
+{{< img-post path="/img/2021/06/" file="Netlify02.jpg" alt="Netlifyサイト作成" >}}
 
 hugoのバージョンは
 

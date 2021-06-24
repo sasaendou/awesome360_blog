@@ -13,4 +13,4 @@ format = ""
 link = "#"
 +++
 
-{{< img-post path="img/2021/06/" file="red.jpg" alt="横浜赤レンガ倉庫" >}}
+{{< img-post path="/img/2021/06/" file="red.jpg" alt="横浜赤レンガ倉庫" >}}
