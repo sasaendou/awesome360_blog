@@ -44,7 +44,7 @@ type = "post"
 という方は 2. Homebrewのダウンロードですね。こちらも公式サイトでコマンドコピーしてターミナルでダウンロードを行うことが可能です。
 一から書くと長くなるので、調べてみてください。
 
-正常にHomebrewをダウンロードすることができたら、3. Githubアカウント作成とgitのインストールです。
+正常にHomebrewをダウンロードすることができたら、Githubアカウント作成とgitのインストールです。
 
 事前にアカウントを作成する必要があるのでやっておきましょう。
 
@@ -125,8 +125,6 @@ git submodule add の後は選んだテーマのgithubのURLになります。
 まずはGithubでリモートリポジトリを作成します。
 
 {{< img-post path="img/2021/06/" file="Github01.jpg" alt="Githubリモートリポジトリ作成" >}}
-
-> git git remote add origin git@github.com:作成したリモートリポジトリ
 
 > git remote add origin git@github.com:作成したリモートリポジトリ
 
