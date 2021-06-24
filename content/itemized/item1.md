@@ -1,16 +1,16 @@
 +++
 type = "itemized"
-author = "George Jetson"
-date = "2017-06-22"
-title = "Fancy App 1"
-description = "Application for doing cool things."
+author = "sasaendo"
+date = "2021-06-24"
+title = "横浜赤レンガ倉庫"
+description = "みなとみらいにある赤レンガ倉庫をTheata360で撮ってみた"
 featured = ""
 featuredpath = ""
 featuredalt = ""
 categories = [""]
 linktitle = ""
-format = "Android"
+format = ""
 link = "#"
 +++
 
-## App 1
+{{< img-post path="img/2021/06/" file="red.jpg" alt="横浜赤レンガ倉庫" >}}

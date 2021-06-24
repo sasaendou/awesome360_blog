@@ -1,5 +1,5 @@
 +++
-author = "Theme author"
+author = "sasaendo"
 categories = ["blog", "How to"]
 tags = ["blog", "Hugo", "Netlify", "Github", "Homebrew"]
 date = "2021-06-24"
