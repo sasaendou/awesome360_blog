@@ -148,5 +148,17 @@ gitの使い方を軽くレクチャーしたところでやっと、{{< url-lin
 
 {{< img-post path="img/2021/06/" file="Netlify01.jpg" alt="Netlifyサイト作成" >}}
 
+以下のようにビルドの設定を行います。
 
+{{< img-post path="img/2021/06/" file="Netlify02.jpg" alt="Netlifyサイト作成" >}}
+
+hugoのバージョンは
+
+> hugo version
+
+で確認できます。
+
+Deploy siteボタンをプッシュしてWEBへの公開が完了しました！
+
+最後までみていただきありがとうございます！
 
