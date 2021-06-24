@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "「365日中360日を良い日に。」　　そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "「365日中360日を良い日に。」　　そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
