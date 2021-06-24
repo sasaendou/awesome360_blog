@@ -1,5 +1,5 @@
 baseurl = "https://www.awesome-360.com"
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "Awesome360"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
@@ -15,9 +15,9 @@ canonifyURLs = true
   # Sets the meta tag description
   description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "Awesome360"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
+  viewMorePostLink     = "/post/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
@@ -89,7 +89,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Awesome360"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "「365日中360日を良い日に。」　　そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
 
   about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
@@ -124,7 +124,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "Blog"
-  url = "/blog/slug:"
+  url = "/post/"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
@@ -151,7 +151,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
+  github           = "sasaendou/awesome360_blog"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -159,22 +159,22 @@ canonifyURLs = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = "example"
+  flickr           = ""
   behance          = ""
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
-  linkedin_company = "examplebusiness"
+  linkedin         = ""
+  linkedin_company = ""
   foursquare       = ""
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  facebook         = "awesome360.blog"
   googleplus       = ""
-  reddit           = "example"
+  reddit           = ""
   quora            = ""
   youtube          = ""
   vimeo            = ""
@@ -182,16 +182,16 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  instagram        = "life_awesome360"
   tumblr           = ""
-  twitter          = "example"
+  twitter          = "sasaendo"
   skype            = ""
   snapchat         = ""
-  pinterest        = "example"
-  telegram         = "example"
+  pinterest        = ""
+  telegram         = ""
   vine             = ""
   googlescholar    = ""
   orcid            = ""
-  researchgate     = "example"
+  researchgate     = ""
   # Email
-  email            = "example"
+  email            = ""

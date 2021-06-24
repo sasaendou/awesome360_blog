@@ -1,29 +1,23 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Me"
+date = "2021-06-24"
 +++
 
-Hugo is a static site engine written in Go.
+「365日中360日を良い日にしたい。」
 
+こんにちは。
 
-It makes use of a variety of open source projects including:
+SESとして日々を過ごすOLです。
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+私は新卒で生保レディーとなり、その仕事内容に撃沈。
+早々に辞めて、転職を繰り返しようやく自分の合う仕事に。
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+それが現在です。
 
-## Setup
+一回挫折したときに初めてHTMLとかに触れたことがキッカケでITに興味を持ちました。
 
-Some fun facts about [Hugo](http://gohugo.io/):
+現在はWEBエンジニアとして働いていきたい思いがあり、日々勉強の毎日です。
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+このブログでは皆さんに役立つ情報からどうでもいいことまで発信していきます。
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+### Thanks for reading!
