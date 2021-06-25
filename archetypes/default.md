@@ -1,5 +1,5 @@
 +++
-aauthor = "sasaendo"
+author = "sasaendo"
 categories = [""]
 tags = [""]
 date = "2021-06-24"
