@@ -1,12 +1,12 @@
 +++
-author = "Theme author"
+author = "sasaendo"
 categories = [""]
 tags = [""]
 date = "2021-06-24"
 description = ""
-featured = "pic03.jpg"
-featuredalt = "Pic 3"
-featuredpath = "date"
+featured = ""
+featuredalt = ""
+featuredpath = ""
 linktitle = ""
 title = ""
 type = "post"
@@ -14,5 +14,5 @@ type = "post"
 +++
 
 
-<p>aaaaaaa</p>
+
 

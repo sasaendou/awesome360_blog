@@ -1,11 +1,15 @@
 +++
-author = ""
-categories = []
+aauthor = "sasaendo"
+categories = [""]
+tags = [""]
+date = "2021-06-24"
 description = ""
-linktitle = ""
 featured = ""
-featuredpath = ""
 featuredalt = ""
+featuredpath = ""
+linktitle = ""
+title = ""
+type = "post"
 
 +++
 
