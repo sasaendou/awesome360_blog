@@ -57,7 +57,9 @@ Gitのコマンド等については説明省きます。
 
 次のコマンドでインストールを行います。
 
-> brew install hugo
+{{< highlight go >}}
+brew install hugo
+{{< / highlight >}}
 
 正常にコマンドが終了すればインストール完了です。
 
@@ -65,7 +67,9 @@ Gitのコマンド等については説明省きます。
 
 次にhugoのコマンドでプロジェクトを作成していきます。
 
-> hugo new site 任意の名称
+{{< highlight go >}}
+hugo new site 任意の名称
+{{< / highlight >}}
 
 割と任意の場所で良いみたいです。私は今後のことも考えてSSDの中でフォルダを掘って作成しました。
 
@@ -76,7 +80,9 @@ Gitのコマンド等については説明省きます。
 
 まずは作成したプロジェクト直下で以下のコマンドを実行します。
 
-> git init
+{{< highlight go >}}
+git init
+{{< / highlight >}}
 
 こちらを行わないと以下のコマンドが使えません。
 
@@ -85,11 +91,16 @@ Gitのコマンド等については説明省きます。
 
 好みのテーマが見つかったら、
 
-> cd themes
+{{< highlight go >}}
+cd themes
+{{< / highlight >}}
+
 
 でthemesに移動して、サブモジュールとして追加します。
 
-> git submodule add https://github.com/jpescador/hugo-future-imperfect
+{{< highlight go >}}
+git submodule add https://github.com/jpescador/hugo-future-imperfect
+{{< / highlight >}}
 
 git submodule add の後は選んだテーマのgithubのURLになります。
 
@@ -99,17 +110,23 @@ git submodule add の後は選んだテーマのgithubのURLになります。
 
 おそらくthemesフォルダにいると思うので、プロジェクト直下に戻ります。
 
-> cd ..
+{{< highlight go >}}
+cd ..
+{{< / highlight >}}
 
 その後以下のコマンドを実行。
 
-> cp -r  themes/hugo-future-imperfect/exampleSite/* .
+{{< highlight go >}}
+cp -r  themes/hugo-future-imperfect/exampleSite/* .
+{{< / highlight >}}
 
 この後プロジェクト直下のconfig.tomlを修正して、余分な.mdファイルを削除したり記事追加を行いました。
 
 ローカル上で動かしてみます。
 
-> hugo server
+{{< highlight go >}}
+hugo server
+{{< / highlight >}}
 
 以下のURLで確認できます。
 
@@ -126,21 +143,42 @@ git submodule add の後は選んだテーマのgithubのURLになります。
 
 {{< img-post path="/img/2021/06/" file="Github01.jpg" alt="Githubリモートリポジトリ作成" >}}
 
-> git remote add origin git@github.com:作成したリモートリポジトリ
+Githubのリモートリポジトリと紐付け
+{{< highlight go >}}
+git remote add origin git@github.com:作成したリモートリポジトリ
+{{< / highlight >}}
 
->　git commit -m "コミットコメント"
+コミット
+{{< highlight go >}}
+git commit -m "コミットコメント"
+{{< / highlight >}}
 
-そして以下でプッシュします。
+プッシュ
+{{< highlight go >}}
+git push origin master
+{{< / highlight >}}
 
-> git push origin master
+これで紐付けが完了したので、次から追加や修正した際は、以下の流れでプッシュできます。
 
-これで紐付けが完了したので、次からは以下の流れでプッシュできます。
+全てをステージに追加
+{{< highlight go >}}
+git add -A
+{{< / highlight >}}
 
-> git add -A
+追加・変更がステージにあるか確認
+{{< highlight go >}}
+git status
+{{< / highlight >}}
 
->　git commit -m "コミットコメント"
+コミット
+{{< highlight go >}}
+git commit -m "コミットコメント"
+{{< / highlight >}}
 
-> git push origin master
+プッシュ
+{{< highlight go >}}
+git push origin master
+{{< / highlight >}}
 
 gitの使い方を軽くレクチャーしたところでやっと、{{< url-link "Netlify" "https://www.netlify.com/" "target">}}です！
 
@@ -154,7 +192,9 @@ gitの使い方を軽くレクチャーしたところでやっと、{{< url-lin
 
 hugoのバージョンは
 
-> hugo version
+{{< highlight go >}}
+$hugo version
+{{< / highlight >}}
 
 で確認できます。
 
