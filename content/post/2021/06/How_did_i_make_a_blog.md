@@ -193,7 +193,7 @@ gitの使い方を軽くレクチャーしたところでやっと、{{< url-lin
 hugoのバージョンは
 
 {{< highlight go >}}
-$hugo version
+hugo version
 {{< / highlight >}}
 
 で確認できます。
