@@ -70,7 +70,7 @@ SEOの観点からみても、不変であることが有利なのは言うま�
 また、現在人気のドメイン取得サイトが安価に取得できたりしますが、Google Domainsで独自ドメインを取得すると、
 
 > Googleと同じDNSサーバーを利用できるのでWebサイトへのアクセスが高速化される
-> 引用:Google Domainsで独自ドメインを購入してみる(https://cloud-ace.jp/column/detail93/9
+> (引用:Google Domainsで独自ドメインを購入してみる(https://cloud-ace.jp/column/detail93/9))
 
 高速化は結構大事だと思っています！
 
@@ -78,7 +78,7 @@ SEOの観点からみても、不変であることが有利なのは言うま�
 
 ## 4. Google Domainsで独自ドメインを取得する方法
 
-まずは　Google Domains　https://domains.google/intl/ja_jp/　にアクセスします。
+まずは{{< url-link "Google Domains" "https://domains.google/intl/ja_jp/" "target">}}にアクセスします。
 
 {{< img-post path="/img/2021/06/" file="GoogleDomains01.jpg" alt="Google DomainsのTop" >}}
 
