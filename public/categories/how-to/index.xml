@@ -6,40 +6,192 @@
     <description>Recent content in How to on Awesome360</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.awesome-360.com/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.awesome-360.com/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>便利なパッケージ管理「Homebrew」のインストール方法を紹介</title>
+      <link>https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/</guid>
+      <description>パッケージ管理には他にもMacPortsなどがありますが、私はHomebrewを使用しているので、きっと他のパッケージ管理より簡単なはずです！
+目次  インストール方法 ダウンロードしておくべきコンテンツを紹介 参考サイト等  1. インストール方法 まずHomebrewをインストールする前に以下のコマンドをターミナル（シェル）で実行します。
+xcode-select --install 次のコマンドでPATHを通します（ファイル名を指定しただけで実行できるようにします）。
+sudo xcode-select --switch /Library/Developer/CommandLineTools そしたらHomebrewのインストールを行なっていきます。
+ 公式サイト にコマンドが載っているのでそちらをターミナルにコピぺして実行します。（以下に2021年7月1日時点のインストールコマンド載せておきます。）
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; 処理に結構時間がかかるので、気長に待ちましょう！
+Homebrewがインストールできたか以下のコマンドで確認出来ます。
+brew -v Homebrew 3.1.9 Homebrew/homebrew-core (git revision a35xxxxxx; last commit 2021-06-07) これでHomebrewのインストールは終了です！
+以下ではbrewコマンドで私が何をインストールしたかシェアします。
+2. ダウンロードしておくべきコンテンツを紹介 * Google Chrome brew install --cask google-chrome https://formulae.brew.sh/cask/google-chrome#default
+* VSCode brew install --cask visual-studio-code https://formulae.brew.sh/cask/visual-studio-code#default
+* Github brew install git https://formulae.brew.sh/formula/git#default
+とりあえずはこのくらいです！
+ 公式サイト でインストールしたいもの検索するとインストールコマンド確認できるので、コピペでインストールできます。
+最後まで見ていただきありがとうございます！
+3. 参考サイト等 ・PATHを通すとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典 https://wa3.</description>
+    </item>
+    
+    <item>
+      <title>IKEAのスマートLED電球、TRÅDFRI（トロードフリ）の魅力</title>
+      <link>https://www.awesome-360.com/post/2021/06/how_to_use_tradfri_lighting/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/06/how_to_use_tradfri_lighting/</guid>
+      <description>今回は私が実際に使っているスマートLED電球のTRÅDFRI（トロードフリ）の魅力と使用方法についてご紹介します。
+目次  TRÅDFRI（トロードフリ）って？メリットやデメリットは？ 準備 設定方法 プラスアルファで更に便利 間接照明でオシャレな部屋を演出 参考サイト  1. TRÅDFRI（トロードフリ）って？メリットやデメリットは？ TRÅDFRI（トロードフリ）とは、IKEAが独自に出しているスマートLED電球です。
+Philips Hueよりも安くスマートLED電球を取り入れることが可能になります。
+「Philips Hue ホワイト スターターセット」の価格が9,800円（2021年6月30日時点）なのに対して、TRÅDFRI（トロードフリ）のゲートウェイキットはIKEA Family価格で7,999円（2021年6月30日時点）です。
+また、Google HomeやAlexaにも対応しているのでPhilips Hueと同等の使い方が可能です。
+外出先からの操作はできませんが、タイマーで時間を設定して電気をつけることは可能なのであまりデメリットとは言えないかなと思います。
+TRÅDFRI（トロードフリ）の魅力がわかったところで早速準備していきましょう。
+2. 準備 今回は私が実際に買ったものを紹介します。
+  TRÅDFRI トロードフリ ゲートウェイ( https://amzn.to/3xa2oZj )
+  TRÅDFRI トロードフリ リモコン( https://amzn.to/3qCCpr0 )
+  TRÅDFRI トロードフリ 調光器セット( https://amzn.to/3h6kANU )
+  TRÅDFRI トロードフリ LED電球 E26 1000ルーメン( https://amzn.to/3ya8NUA )
+  TRÅDFRI トロードフリ LED電球 E17 440ルーメン( https://amzn.to/3AkMRb2 )
+  TRÅDFRI トロードフリ ショートカットボタン( https://amzn.</description>
+    </item>
+    
+    <item>
+      <title>文系女子がシステムエンジニアになる為に使った学習サイトを紹介</title>
+      <link>https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/</guid>
+      <description>今回は私、SESをしている文系女子がどうやって知識をつけてきたのかをシェアしていければと思います。
+目次  文系の私がプログラミングを始めたきっかけ フロントの勉強や仮想環境の勉強に最適！「ドットインストール」 プログラミング言語の勉強に役立った「Progate」 動画でわかりやすい「Udemy」 資格の勉強に役立つ「Pingt」  1. 文系の私がプログラミングを始めたきっかけ 私は元々大学は経済学部で統計学とかは受けてましたが、文系でした。 新卒で生保レディーとなり、早々に退職。ニート期間にHTMLやCSSに触れたことをきっかけに現在SESとして働いています。
+そんな初心者だった私がどのサイトを使って勉強しているのか以下で紹介します！
+2. フロントの勉強や仮想環境の勉強に最適！「ドットインストール」 「ドットインストール」： https://dotinstall.com/
+一番初めにフロントエンドを触れたのがドットインストールです！
+動画でわかりやすくて、実際に手を動かしながら実践形式で学ぶことができます。
+無料で受講できるものも多く、もっと学びたいと思った時はプレミアム会員になること受講できる講座が増えます！
+環境設定から教えてくれるので、本当に初心者の方から勉強を進めることができます！
+3. プログラミング言語の勉強に役立った「Progate」 「Progate」： https://prog-8.com/
+イラストでわかりすく学習を進められるのがProgateです！
+穴埋め問題のようになっており、プログラミングのいろはを学ぶことが可能です。
+私は無料会員でしか使用したことがないのですが、有料会員になると受講できる言語等がふえるようです。
+4. 動画でわかりやすい「Udemy」 「Udemy」： https://www.udemy.com/
+Udemyも動画で学べる教材になります。
+こちらは教材を購入するタイプの基本的に有料になります。ですが1度購入しておけば、アプリ内でダウンロードしてネット環境のないところで再生することができます。
+英語の勉強もできる教材も多くあるので、結構活用しています！
+動画の速度も変えることができるので、倍速にして学習のスピードアップを図ることも可能です！
+また、定期的にセールを行なっていて、必ずセール期間中に買うことをおすすめします。
+もしセール中とかだったらTwitterとかで共有するので、よかったらフォローしてください。
+5. 資格の勉強に役立つ「Ping-t」 「Ping-t」： https://ping-t.com/
+こちらは資格系になります。エンジニアに資格は不要派なのですが、SESの為、そんなことも言ってられません。そんな時に活用しているのがPing-tになります。
+プレミアム会員になることで、多くの資格の問題を解くことができます。
+未回答のものや答えを間違えたものなどもわかるので、効率よく資格の勉強を行なうことが可能です。
+ 今回はシステムエンジニアとして仕事をする上で学習に使っているサイトを紹介してみました！
+是非興味のある方は初めてみてくださいね！</description>
+    </item>
+    
+    <item>
+      <title>Google Domainsで「独自ドメイン」を取得する方法</title>
+      <link>https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/</guid>
+      <description>今回はGoogle Domainsでの独自ドメインの取得方法を紹介します。
+当サイトのドメインもGoogle Domainsで取得しました！
+広告収入を狙う方は無料のブログサイトより断然独自ドメインを使用したブログをおすすめします。もちろん有料にはなりますが、是非トライしてみてください。 私は独自ドメインだけ取得して無駄に1年以上経ってました。。。 そしてやっとこのブログを開始したんです！←
+では早速いってみましょう！
+目次  ドメインとは 独自ドメインとは なぜGoogle Domainsで取得するのか Google Domainsで独自ドメインを取得する方法 参照ブログ  1. ドメインとは 「ドメイン」とはインターネット上の住所のようなものです。これがないとインターネット上で公開ができません。
+では「ドメインとはどこの部分なのか」ですが、
+このサイトのURL構造をみてみましょう。
+https://www.awesome-360.com/
+この中でいうと、”www”、”awesome-360”、”.com”がドメインに当たります。
+そして、”awesome-360.com”が独自ドメインになります。
+ドメインがわかったところで、独自ドメインについて知っていきましょう。
+2. 独自ドメインとは 「独自ドメイン」とはユーザーが独自に決めたドメインのことです。
+無料のサブドメイン（無料ブログ等のドメインのこと）とは違い有料です。
+ですが、さまざまなメリットもあります。
+まず第一に保持している限りドメインが変わることはありません。無料のものですと変わる事もあるのでどこから共有している場合注意が必要になります。
+SEOの観点からみても、不変であることが有利なのは言うまでもありません。
+ブログやサイトを開設するなら「独自ドメイン」が必要なことがわかったかと思います！
+では次です！
+3. なぜGoogle Domainsで取得するのか まず私はGoogle Domainsで独自ドメインを取得しました。 主にGoogleアカウントで全て集約できることが強みだと思います。
+また、現在人気のドメイン取得サイトが安価に取得できたりしますが、Google Domainsで独自ドメインを取得すると、
+ Googleと同じDNSサーバーを利用できるのでWebサイトへのアクセスが高速化される (引用:Google Domainsで独自ドメインを購入してみる(https://cloud-ace.jp/column/detail93/9))
+ 高速化は結構大事だと思っています！
+それでは取得方法をみていきましょう。
+4. Google Domainsで独自ドメインを取得する方法 まずは Google Domains にアクセスします。
+
+作りたいドメインで検索してみましょう。私は一旦「awesome360-blog」で検索します。 そうすると現在使用できるドメインを提示してくれます。
+
+トップドメインは個人的には「.com」がいいかと思っていますが、なんでも良いという方は特に気にしなくて良いです！
+取得するドメインが決まったらカートに追加。
+カートに追加して、クレジットカード情報を入力して「精算」ボタンをプッシュして完了です。
+
+この際自動更新にしておくことを強くおすすめします。
+今回私は購入しないので省きます。
+
+購入が完了するとマイドメインに上記ように取得した独自ドメインが表示されます。</description>
+    </item>
+    
+    <item>
+      <title>Google Slidesをおしゃれに作る方法</title>
+      <link>https://www.awesome-360.com/post/2021/06/how_to_make_a_fashionable_googleslides/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/06/how_to_make_a_fashionable_googleslides/</guid>
+      <description>皆さんGoogle Slides使っていますか？
+いつの間にかMicroSoft Office が定額になっていて、私もMacbookにしたのをキッカケにGoogleのコンテンツを使うようになりました。
+今回は簡単にそして時間をかけずにおしゃれなGoogle Slidesを作る方法を共有します。
+無論Googleアカウントを持っている前提で進めます。
+目次  Slidesgoでスライドをコピー Google Slidesでスライドを作成  1. Slidesgoでスライドをコピー まずは下記にアクセス
+Slidesgo 
+日本語は対応してないですが、手順さえ覚えれば問題ありません！
+今回は こちら を選んでみました。
+
+Google Slidesをプッシュして、下記の画面が表示されるので「コピーを作成」をプッシュ。
+
+するとこんな感じでGoogle Slidesに推移します。 
+次のステップに進みましょう。
+2. Google Slidesでスライドを作成 Google Slidesのトップに戻って、新規でスライドを作成します。
+
+ファイルから「スライドをインポート」を選択、プレゼンテーションから先ほどコピーしたスライドを選んで「選択」をプッシュ。
+
+上記の画面からインポートしたいスライドを選んで、「スライドをインポート」をプッシュ。
+
+新しく作成したスライドにおしゃれなスライドをインポートすることができました！
+後は編集するだけですね！
+これで終わりです！
+最後までありがとうございました！</description>
+    </item>
+    
     <item>
       <title>hugoとNetlifyでブログを作成する方法</title>
-      <link>https://www.awesome-360.com/post/how_did_i_make_a_blog/</link>
+      <link>https://www.awesome-360.com/post/2021/06/how_did_i_make_a_blog/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.awesome-360.com/post/how_did_i_make_a_blog/</guid>
+      <guid>https://www.awesome-360.com/post/2021/06/how_did_i_make_a_blog/</guid>
       <description>皆さんはブログを書いてみたい。始めてみたいと思ったことはありますか？
 私もそうした思いがあり作成してみました！
 今回は、このブログサイトを作った方法を共有していければと思います。
 目次  事前準備 Hugoのインストール方法 プロジェクト立ち上げ GitコマンドでHugoのテーマを実装 NetlifyでWEBに公開  1. 事前準備 初めに
- ターミナルの使い方 Homebrewのダウンロード Githubアカウント作成とgitのインストール  上記を行う必要があります。
-ターミナルについはググって調べてみてください。
+ ターミナル（シェル）の使い方 Homebrewのダウンロード Githubアカウント作成とgitのインストール  上記を行う必要があります。
+ターミナル（シェル）についてはググって調べてみてください。
 そんなの知っているよ！
-という方は 2. Homebrewのダウンロードですね。こちらも公式サイトでコマンドコピーしてターミナルでダウンロードを行うことが可能です。 一から書くと長くなるので、調べてみてください。
-正常にHomebrewをダウンロードすることができたら、Githubアカウント作成とgitのインストールです。
+という方はHomebrewのダウンロードですね。こちらも公式サイトでコマンドコピーしてターミナル（シェル）でダウンロードを行うことが可能です。
+以下の記事でHomebrewのインストール方法を紹介しているので見てみてください。
+ ・便利なパッケージ管理「HOMEBREW」のインストール方法を紹介 ( https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/ )
+ 正常にHomebrewをダウンロードすることができたら、Githubアカウント作成とgitのインストールです。
 事前にアカウントを作成する必要があるのでやっておきましょう。
-HomebrewのコマンドでGitをインストールします。こうすることでバージョンが扱いやすくなります。
-Gitのコマンド等については説明省きます。
+HomebrewのコマンドでGitをインストールします。
+こちらも以下の記事でインストール方法載せてます。
+ ・便利なパッケージ管理「HOMEBREW」のインストール方法を紹介 ( https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/ )
+ Gitのコマンド等については説明省きます。
 2.Hugoのインストール方法 次のコマンドでインストールを行います。
- brew install hugo
- 正常にコマンドが終了すればインストール完了です。
+brew install hugo 正常にコマンドが終了すればインストール完了です。
 3. プロジェクト立ち上げ 次にhugoのコマンドでプロジェクトを作成していきます。
- hugo new site 任意の名称
- 割と任意の場所で良いみたいです。私は今後のことも考えてSSDの中でフォルダを掘って作成しました。
+hugo new site 任意の名称 割と任意の場所で良いみたいです。私は今後のことも考えてSSDの中でフォルダを掘って作成しました。
 正常にコマンドが終了すれば、これでOKです！
 4. GitコマンドでHugoのテーマを実装 まずは作成したプロジェクト直下で以下のコマンドを実行します。
- git init
- こちらを行わないと以下のコマンドが使えません。
+git init こちらを行わないと以下のコマンドが使えません。
 その後、 Hugoのテーマ一覧 より好きなテーマを選びます。 私は今回 こちら を選びました。
 好みのテーマが見つかったら、
- cd themes
- でthemesに移動して、サブモジュールとして追加します。
- git submodule add https://github.</description>
+cd themes でthemesに移動して、サブモジュールとして追加します。</description>
     </item>
     
   </channel>

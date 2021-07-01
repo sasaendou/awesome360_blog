@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プログラマー on Awesome360</title>
+    <link>https://www.awesome-360.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC/</link>
+    <description>Recent content in プログラマー on Awesome360</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.awesome-360.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文系女子がシステムエンジニアになる為に使った学習サイトを紹介</title>
+      <link>https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/</guid>
+      <description>今回は私、SESをしている文系女子がどうやって知識をつけてきたのかをシェアしていければと思います。
+目次  文系の私がプログラミングを始めたきっかけ フロントの勉強や仮想環境の勉強に最適！「ドットインストール」 プログラミング言語の勉強に役立った「Progate」 動画でわかりやすい「Udemy」 資格の勉強に役立つ「Pingt」  1. 文系の私がプログラミングを始めたきっかけ 私は元々大学は経済学部で統計学とかは受けてましたが、文系でした。 新卒で生保レディーとなり、早々に退職。ニート期間にHTMLやCSSに触れたことをきっかけに現在SESとして働いています。
+そんな初心者だった私がどのサイトを使って勉強しているのか以下で紹介します！
+2. フロントの勉強や仮想環境の勉強に最適！「ドットインストール」 「ドットインストール」： https://dotinstall.com/
+一番初めにフロントエンドを触れたのがドットインストールです！
+動画でわかりやすくて、実際に手を動かしながら実践形式で学ぶことができます。
+無料で受講できるものも多く、もっと学びたいと思った時はプレミアム会員になること受講できる講座が増えます！
+環境設定から教えてくれるので、本当に初心者の方から勉強を進めることができます！
+3. プログラミング言語の勉強に役立った「Progate」 「Progate」： https://prog-8.com/
+イラストでわかりすく学習を進められるのがProgateです！
+穴埋め問題のようになっており、プログラミングのいろはを学ぶことが可能です。
+私は無料会員でしか使用したことがないのですが、有料会員になると受講できる言語等がふえるようです。
+4. 動画でわかりやすい「Udemy」 「Udemy」： https://www.udemy.com/
+Udemyも動画で学べる教材になります。
+こちらは教材を購入するタイプの基本的に有料になります。ですが1度購入しておけば、アプリ内でダウンロードしてネット環境のないところで再生することができます。
+英語の勉強もできる教材も多くあるので、結構活用しています！
+動画の速度も変えることができるので、倍速にして学習のスピードアップを図ることも可能です！
+また、定期的にセールを行なっていて、必ずセール期間中に買うことをおすすめします。
+もしセール中とかだったらTwitterとかで共有するので、よかったらフォローしてください。
+5. 資格の勉強に役立つ「Ping-t」 「Ping-t」： https://ping-t.com/
+こちらは資格系になります。エンジニアに資格は不要派なのですが、SESの為、そんなことも言ってられません。そんな時に活用しているのがPing-tになります。
+プレミアム会員になることで、多くの資格の問題を解くことができます。
+未回答のものや答えを間違えたものなどもわかるので、効率よく資格の勉強を行なうことが可能です。
+ 今回はシステムエンジニアとして仕事をする上で学習に使っているサイトを紹介してみました！
+是非興味のある方は初めてみてくださいね！</description>
+    </item>
+    
+  </channel>
+</rss>

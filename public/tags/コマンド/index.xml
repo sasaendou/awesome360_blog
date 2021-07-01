@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>コマンド on Awesome360</title>
+    <link>https://www.awesome-360.com/tags/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</link>
+    <description>Recent content in コマンド on Awesome360</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.awesome-360.com/tags/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>便利なパッケージ管理「Homebrew」のインストール方法を紹介</title>
+      <link>https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/</guid>
+      <description>パッケージ管理には他にもMacPortsなどがありますが、私はHomebrewを使用しているので、きっと他のパッケージ管理より簡単なはずです！
+目次  インストール方法 ダウンロードしておくべきコンテンツを紹介 参考サイト等  1. インストール方法 まずHomebrewをインストールする前に以下のコマンドをターミナル（シェル）で実行します。
+xcode-select --install 次のコマンドでPATHを通します（ファイル名を指定しただけで実行できるようにします）。
+sudo xcode-select --switch /Library/Developer/CommandLineTools そしたらHomebrewのインストールを行なっていきます。
+ 公式サイト にコマンドが載っているのでそちらをターミナルにコピぺして実行します。（以下に2021年7月1日時点のインストールコマンド載せておきます。）
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; 処理に結構時間がかかるので、気長に待ちましょう！
+Homebrewがインストールできたか以下のコマンドで確認出来ます。
+brew -v Homebrew 3.1.9 Homebrew/homebrew-core (git revision a35xxxxxx; last commit 2021-06-07) これでHomebrewのインストールは終了です！
+以下ではbrewコマンドで私が何をインストールしたかシェアします。
+2. ダウンロードしておくべきコンテンツを紹介 * Google Chrome brew install --cask google-chrome https://formulae.brew.sh/cask/google-chrome#default
+* VSCode brew install --cask visual-studio-code https://formulae.brew.sh/cask/visual-studio-code#default
+* Github brew install git https://formulae.brew.sh/formula/git#default
+とりあえずはこのくらいです！
+ 公式サイト でインストールしたいもの検索するとインストールコマンド確認できるので、コピペでインストールできます。
+最後まで見ていただきありがとうございます！
+3. 参考サイト等 ・PATHを通すとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典 https://wa3.</description>
+    </item>
+    
+  </channel>
+</rss>

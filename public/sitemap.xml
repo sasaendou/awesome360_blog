@@ -2,34 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.awesome-360.com/about/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.awesome-360.com/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/homebrew/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/how-to/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/how-to/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/2021/06/how_to_use_tradfri_lighting/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E5%8C%96/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/2021/06/i_went_to_kuruttaseven/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E3%83%93%E3%83%BC%E3%83%AB/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E5%AD%A6%E7%BF%92%E3%82%B5%E3%82%A4%E3%83%88/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E5%AD%A6%E7%BF%92%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E6%96%87%E7%B3%BB%E5%A5%B3%E5%AD%90/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/1%E5%B9%B4%E7%9B%AE/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AF%E3%83%BC%E3%82%AF/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E4%BB%95%E4%BA%8B/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/2021/06/i_thought_job_change/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E8%BB%A2%E8%81%B7/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E8%BB%A2%E8%81%B7/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/blog/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/google-domains/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/google/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/post/2021/06/how_to_make_a_fashionable_googleslides/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/googleslides/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/tags/pawerpoint/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E6%99%82%E7%9F%AD/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/about/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.awesome-360.com/tags/blog/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.awesome-360.com/categories/blog/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.awesome-360.com/categories/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.awesome-360.com/tags/github/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.awesome-360.com/tags/homebrew/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.awesome-360.com/categories/how-to/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.awesome-360.com/tags/hugo/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.awesome-360.com/post/how_did_i_make_a_blog/</loc>
+    <loc>https://www.awesome-360.com/post/2021/06/how_did_i_make_a_blog/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.awesome-360.com/itemized/</loc>
@@ -38,13 +131,19 @@
     <loc>https://www.awesome-360.com/tags/netlify/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.awesome-360.com/post/</loc>
+    <loc>https://www.awesome-360.com/categories/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.awesome-360.com/tags/</loc>
+    <loc>https://www.awesome-360.com/categories/%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/notice/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.awesome-360.com/itemized/item1/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.awesome-360.com/categories/%E8%91%97%E4%BD%9C%E6%A8%A9%E8%82%96%E5%83%8F%E6%A8%A9/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.awesome-360.com/contact/</loc>

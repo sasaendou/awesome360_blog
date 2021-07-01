@@ -6,40 +6,113 @@
     <description>Recent content in blog on Awesome360</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.awesome-360.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.awesome-360.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Domainsで「独自ドメイン」を取得する方法</title>
+      <link>https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/</guid>
+      <description>今回はGoogle Domainsでの独自ドメインの取得方法を紹介します。
+当サイトのドメインもGoogle Domainsで取得しました！
+広告収入を狙う方は無料のブログサイトより断然独自ドメインを使用したブログをおすすめします。もちろん有料にはなりますが、是非トライしてみてください。 私は独自ドメインだけ取得して無駄に1年以上経ってました。。。 そしてやっとこのブログを開始したんです！←
+では早速いってみましょう！
+目次  ドメインとは 独自ドメインとは なぜGoogle Domainsで取得するのか Google Domainsで独自ドメインを取得する方法 参照ブログ  1. ドメインとは 「ドメイン」とはインターネット上の住所のようなものです。これがないとインターネット上で公開ができません。
+では「ドメインとはどこの部分なのか」ですが、
+このサイトのURL構造をみてみましょう。
+https://www.awesome-360.com/
+この中でいうと、”www”、”awesome-360”、”.com”がドメインに当たります。
+そして、”awesome-360.com”が独自ドメインになります。
+ドメインがわかったところで、独自ドメインについて知っていきましょう。
+2. 独自ドメインとは 「独自ドメイン」とはユーザーが独自に決めたドメインのことです。
+無料のサブドメイン（無料ブログ等のドメインのこと）とは違い有料です。
+ですが、さまざまなメリットもあります。
+まず第一に保持している限りドメインが変わることはありません。無料のものですと変わる事もあるのでどこから共有している場合注意が必要になります。
+SEOの観点からみても、不変であることが有利なのは言うまでもありません。
+ブログやサイトを開設するなら「独自ドメイン」が必要なことがわかったかと思います！
+では次です！
+3. なぜGoogle Domainsで取得するのか まず私はGoogle Domainsで独自ドメインを取得しました。 主にGoogleアカウントで全て集約できることが強みだと思います。
+また、現在人気のドメイン取得サイトが安価に取得できたりしますが、Google Domainsで独自ドメインを取得すると、
+ Googleと同じDNSサーバーを利用できるのでWebサイトへのアクセスが高速化される (引用:Google Domainsで独自ドメインを購入してみる(https://cloud-ace.jp/column/detail93/9))
+ 高速化は結構大事だと思っています！
+それでは取得方法をみていきましょう。
+4. Google Domainsで独自ドメインを取得する方法 まずは Google Domains にアクセスします。
+
+作りたいドメインで検索してみましょう。私は一旦「awesome360-blog」で検索します。 そうすると現在使用できるドメインを提示してくれます。
+
+トップドメインは個人的には「.com」がいいかと思っていますが、なんでも良いという方は特に気にしなくて良いです！
+取得するドメインが決まったらカートに追加。
+カートに追加して、クレジットカード情報を入力して「精算」ボタンをプッシュして完了です。
+
+この際自動更新にしておくことを強くおすすめします。
+今回私は購入しないので省きます。
+
+購入が完了するとマイドメインに上記ように取得した独自ドメインが表示されます。</description>
+    </item>
+    
+    <item>
+      <title>Google Slidesをおしゃれに作る方法</title>
+      <link>https://www.awesome-360.com/post/2021/06/how_to_make_a_fashionable_googleslides/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/post/2021/06/how_to_make_a_fashionable_googleslides/</guid>
+      <description>皆さんGoogle Slides使っていますか？
+いつの間にかMicroSoft Office が定額になっていて、私もMacbookにしたのをキッカケにGoogleのコンテンツを使うようになりました。
+今回は簡単にそして時間をかけずにおしゃれなGoogle Slidesを作る方法を共有します。
+無論Googleアカウントを持っている前提で進めます。
+目次  Slidesgoでスライドをコピー Google Slidesでスライドを作成  1. Slidesgoでスライドをコピー まずは下記にアクセス
+Slidesgo 
+日本語は対応してないですが、手順さえ覚えれば問題ありません！
+今回は こちら を選んでみました。
+
+Google Slidesをプッシュして、下記の画面が表示されるので「コピーを作成」をプッシュ。
+
+するとこんな感じでGoogle Slidesに推移します。 
+次のステップに進みましょう。
+2. Google Slidesでスライドを作成 Google Slidesのトップに戻って、新規でスライドを作成します。
+
+ファイルから「スライドをインポート」を選択、プレゼンテーションから先ほどコピーしたスライドを選んで「選択」をプッシュ。
+
+上記の画面からインポートしたいスライドを選んで、「スライドをインポート」をプッシュ。
+
+新しく作成したスライドにおしゃれなスライドをインポートすることができました！
+後は編集するだけですね！
+これで終わりです！
+最後までありがとうございました！</description>
+    </item>
+    
     <item>
       <title>hugoとNetlifyでブログを作成する方法</title>
-      <link>https://www.awesome-360.com/post/how_did_i_make_a_blog/</link>
+      <link>https://www.awesome-360.com/post/2021/06/how_did_i_make_a_blog/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.awesome-360.com/post/how_did_i_make_a_blog/</guid>
+      <guid>https://www.awesome-360.com/post/2021/06/how_did_i_make_a_blog/</guid>
       <description>皆さんはブログを書いてみたい。始めてみたいと思ったことはありますか？
 私もそうした思いがあり作成してみました！
 今回は、このブログサイトを作った方法を共有していければと思います。
 目次  事前準備 Hugoのインストール方法 プロジェクト立ち上げ GitコマンドでHugoのテーマを実装 NetlifyでWEBに公開  1. 事前準備 初めに
- ターミナルの使い方 Homebrewのダウンロード Githubアカウント作成とgitのインストール  上記を行う必要があります。
-ターミナルについはググって調べてみてください。
+ ターミナル（シェル）の使い方 Homebrewのダウンロード Githubアカウント作成とgitのインストール  上記を行う必要があります。
+ターミナル（シェル）についてはググって調べてみてください。
 そんなの知っているよ！
-という方は 2. Homebrewのダウンロードですね。こちらも公式サイトでコマンドコピーしてターミナルでダウンロードを行うことが可能です。 一から書くと長くなるので、調べてみてください。
-正常にHomebrewをダウンロードすることができたら、Githubアカウント作成とgitのインストールです。
+という方はHomebrewのダウンロードですね。こちらも公式サイトでコマンドコピーしてターミナル（シェル）でダウンロードを行うことが可能です。
+以下の記事でHomebrewのインストール方法を紹介しているので見てみてください。
+ ・便利なパッケージ管理「HOMEBREW」のインストール方法を紹介 ( https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/ )
+ 正常にHomebrewをダウンロードすることができたら、Githubアカウント作成とgitのインストールです。
 事前にアカウントを作成する必要があるのでやっておきましょう。
-HomebrewのコマンドでGitをインストールします。こうすることでバージョンが扱いやすくなります。
-Gitのコマンド等については説明省きます。
+HomebrewのコマンドでGitをインストールします。
+こちらも以下の記事でインストール方法載せてます。
+ ・便利なパッケージ管理「HOMEBREW」のインストール方法を紹介 ( https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/ )
+ Gitのコマンド等については説明省きます。
 2.Hugoのインストール方法 次のコマンドでインストールを行います。
- brew install hugo
- 正常にコマンドが終了すればインストール完了です。
+brew install hugo 正常にコマンドが終了すればインストール完了です。
 3. プロジェクト立ち上げ 次にhugoのコマンドでプロジェクトを作成していきます。
- hugo new site 任意の名称
- 割と任意の場所で良いみたいです。私は今後のことも考えてSSDの中でフォルダを掘って作成しました。
+hugo new site 任意の名称 割と任意の場所で良いみたいです。私は今後のことも考えてSSDの中でフォルダを掘って作成しました。
 正常にコマンドが終了すれば、これでOKです！
 4. GitコマンドでHugoのテーマを実装 まずは作成したプロジェクト直下で以下のコマンドを実行します。
- git init
- こちらを行わないと以下のコマンドが使えません。
+git init こちらを行わないと以下のコマンドが使えません。
 その後、 Hugoのテーマ一覧 より好きなテーマを選びます。 私は今回 こちら を選びました。
 好みのテーマが見つかったら、
- cd themes
- でthemesに移動して、サブモジュールとして追加します。
- git submodule add https://github.</description>
+cd themes でthemesに移動して、サブモジュールとして追加します。</description>
     </item>
     
   </channel>

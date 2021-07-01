@@ -9,37 +9,36 @@
     <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.awesome-360.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugoとNetlifyでブログを作成する方法</title>
-      <link>https://www.awesome-360.com/post/how_did_i_make_a_blog/</link>
+      <link>https://www.awesome-360.com/post/2021/06/how_did_i_make_a_blog/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.awesome-360.com/post/how_did_i_make_a_blog/</guid>
+      <guid>https://www.awesome-360.com/post/2021/06/how_did_i_make_a_blog/</guid>
       <description>皆さんはブログを書いてみたい。始めてみたいと思ったことはありますか？
 私もそうした思いがあり作成してみました！
 今回は、このブログサイトを作った方法を共有していければと思います。
 目次  事前準備 Hugoのインストール方法 プロジェクト立ち上げ GitコマンドでHugoのテーマを実装 NetlifyでWEBに公開  1. 事前準備 初めに
- ターミナルの使い方 Homebrewのダウンロード Githubアカウント作成とgitのインストール  上記を行う必要があります。
-ターミナルについはググって調べてみてください。
+ ターミナル（シェル）の使い方 Homebrewのダウンロード Githubアカウント作成とgitのインストール  上記を行う必要があります。
+ターミナル（シェル）についてはググって調べてみてください。
 そんなの知っているよ！
-という方は 2. Homebrewのダウンロードですね。こちらも公式サイトでコマンドコピーしてターミナルでダウンロードを行うことが可能です。 一から書くと長くなるので、調べてみてください。
-正常にHomebrewをダウンロードすることができたら、Githubアカウント作成とgitのインストールです。
+という方はHomebrewのダウンロードですね。こちらも公式サイトでコマンドコピーしてターミナル（シェル）でダウンロードを行うことが可能です。
+以下の記事でHomebrewのインストール方法を紹介しているので見てみてください。
+ ・便利なパッケージ管理「HOMEBREW」のインストール方法を紹介 ( https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/ )
+ 正常にHomebrewをダウンロードすることができたら、Githubアカウント作成とgitのインストールです。
 事前にアカウントを作成する必要があるのでやっておきましょう。
-HomebrewのコマンドでGitをインストールします。こうすることでバージョンが扱いやすくなります。
-Gitのコマンド等については説明省きます。
+HomebrewのコマンドでGitをインストールします。
+こちらも以下の記事でインストール方法載せてます。
+ ・便利なパッケージ管理「HOMEBREW」のインストール方法を紹介 ( https://www.awesome-360.com/post/2021/07/how_to_install_homebrew/ )
+ Gitのコマンド等については説明省きます。
 2.Hugoのインストール方法 次のコマンドでインストールを行います。
- brew install hugo
- 正常にコマンドが終了すればインストール完了です。
+brew install hugo 正常にコマンドが終了すればインストール完了です。
 3. プロジェクト立ち上げ 次にhugoのコマンドでプロジェクトを作成していきます。
- hugo new site 任意の名称
- 割と任意の場所で良いみたいです。私は今後のことも考えてSSDの中でフォルダを掘って作成しました。
+hugo new site 任意の名称 割と任意の場所で良いみたいです。私は今後のことも考えてSSDの中でフォルダを掘って作成しました。
 正常にコマンドが終了すれば、これでOKです！
 4. GitコマンドでHugoのテーマを実装 まずは作成したプロジェクト直下で以下のコマンドを実行します。
- git init
- こちらを行わないと以下のコマンドが使えません。
+git init こちらを行わないと以下のコマンドが使えません。
 その後、 Hugoのテーマ一覧 より好きなテーマを選びます。 私は今回 こちら を選びました。
 好みのテーマが見つかったら、
- cd themes
- でthemesに移動して、サブモジュールとして追加します。
- git submodule add https://github.</description>
+cd themes でthemesに移動して、サブモジュールとして追加します。</description>
     </item>
     
   </channel>
