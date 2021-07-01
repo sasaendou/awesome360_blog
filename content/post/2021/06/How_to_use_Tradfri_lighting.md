@@ -40,31 +40,17 @@ TRÅDFRI（トロードフリ）の魅力がわかったところで早速準備
 
 今回は私が実際に買ったものを紹介します。
 
-* TRÅDFRI トロードフリ ゲートウェイキット, ホワイトスペクトラムE26
+* TRÅDFRI トロードフリ ゲートウェイ( https://amzn.to/3xa2oZj )
 
-    ( https://www.ikea.com/jp/ja/p/tradfri-gateway-kit-white-spectrum-50406917/ )
+* TRÅDFRI トロードフリ リモコン( https://amzn.to/3qCCpr0 )
 
-    IKEA Family価格：7,999円
+* TRÅDFRI トロードフリ 調光器セット( https://amzn.to/3h6kANU )
 
-    通常価格：9,990円
+* TRÅDFRI トロードフリ LED電球 E26 1000ルーメン( https://amzn.to/3ya8NUA )
 
-* TRÅDFRI トロードフリ LED電球 E17 440ルーメン
+* TRÅDFRI トロードフリ LED電球 E17 440ルーメン( https://amzn.to/3AkMRb2 )
 
-    ( https://www.ikea.com/jp/ja/p/tradfri-led-bulb-e17-440-lumen-wireless-dimmable-white-spectrum-chandelier-opal-white-00424320/ )
-
-    通常価格：1,199円
-
-* TRÅDFRI トロードフリ ワイヤレス調光器
-
-    ( https://www.ikea.com/jp/ja/p/tradfri-wireless-dimmer-white-10408602/ )
-
-    通常価格：799円
-
-* TRÅDFRI トロードフリ ショートカットボタン
-
-    ( https://www.ikea.com/jp/ja/p/tradfri-shortcut-button-white-80356384/ )
-
-    通常価格：999円
+* TRÅDFRI トロードフリ ショートカットボタン( https://amzn.to/3h7vCm4 )
 
 以上が私の買ったTRÅDFRI（トロードフリ）のシリーズです。
 
