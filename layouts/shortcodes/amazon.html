@@ -1,0 +1,14 @@
+<div class="amazon-box">
+    <div class="three columns amazon-image">
+      <a href="{{ .Get "url" }}" target="_blank">
+        <img border="0" src="{{ .Get "imageUrl" }}">
+      </a>
+    </div>
+    <div class="nine columns amazon-info">
+      <a href="{{ .Get "url" }}">
+        <p class="amazon-name" target="_blank">{{ .Get "title" }}</p>
+      </a>
+      <button href="{{ .Get "url" }}" class="amazon-button">amazonで購入する</button>
+    </div>
+    <br>
+  </div>

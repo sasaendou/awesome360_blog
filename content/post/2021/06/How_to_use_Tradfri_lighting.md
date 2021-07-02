@@ -40,17 +40,46 @@ TRÅDFRI（トロードフリ）の魅力がわかったところで早速準備
 
 今回は私が実際に買ったものを紹介します。
 
-* TRÅDFRI トロードフリ ゲートウェイ( https://amzn.to/3xa2oZj )
+### * TRÅDFRI トロードフリ ゲートウェイ
+{{<amazon
+  url="https://amzn.to/3xa2oZj"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B085HKRRY5&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+ >}}
 
-* TRÅDFRI トロードフリ リモコン( https://amzn.to/3qCCpr0 )
 
-* TRÅDFRI トロードフリ 調光器セット( https://amzn.to/3h6kANU )
+### * TRÅDFRI トロードフリ リモコン
+{{<amazon
+  url="https://amzn.to/3qCCpr0"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B085HFWLMN&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+ >}}
 
-* TRÅDFRI トロードフリ LED電球 E26 1000ルーメン( https://amzn.to/3ya8NUA )
 
-* TRÅDFRI トロードフリ LED電球 E17 440ルーメン( https://amzn.to/3AkMRb2 )
+### * TRÅDFRI トロードフリ 調光器セット
+{{<amazon
+  url="https://amzn.to/3h6kANU"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B08GWYVXTW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+ >}}
 
-* TRÅDFRI トロードフリ ショートカットボタン( https://amzn.to/3h7vCm4 )
+
+### * TRÅDFRI トロードフリ LED電球 E26 1000ルーメン
+{{<amazon
+  url="https://amzn.to/3ya8NUA"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B085HK41ZG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+ >}}
+
+
+### * TRÅDFRI トロードフリ LED電球 E17 440ルーメン
+{{<amazon
+  url="https://amzn.to/3AkMRb2"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B095C1BDN1&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+ >}}
+
+
+### * TRÅDFRI トロードフリ ショートカットボタン
+{{<amazon
+  url="https://amzn.to/3h7vCm4"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B095BM91R3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+ >}}
 
 以上が私の買ったTRÅDFRI（トロードフリ）のシリーズです。
 

@@ -44,7 +44,9 @@ type = "post"
 * 「一軒家買わなきゃ、結婚しなきゃ」など『常識』というバイアスに囚われがちな方
 * 堀江貴文さんの考えが気になる方
 
-・お金や人脈、学歴はいらない！　情報だけ武器にしろ。 (ポプラ新書)
-
-https://amzn.to/2ThIVrf
+{{<amazon
+  url="https://amzn.to/3dwr7zp"
+  title="お金や人脈、学歴はいらない！　情報だけ武器にしろ。 (ポプラ新書)"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B07Q2TPDS2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+ >}}
 
