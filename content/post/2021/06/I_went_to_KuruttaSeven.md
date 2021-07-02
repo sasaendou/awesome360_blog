@@ -1,7 +1,7 @@
 +++
 author = "sasaendo"
-categories = ["レビュー"]
-tags = ["行ってみた","ビール"]
+categories = ["blog","Review"]
+tags = ["行ってみた","ビール","try going"]
 date = "2021-06-29"
 description = "巷で話題になった「狂ったセブン」に行ってみました。そこはクラフトビール好きにはたまらないほど狂った空間でした。"
 featured = "I_went_to_KuruttaSeven.jpg"

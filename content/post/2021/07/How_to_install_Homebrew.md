@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["How to"]
+categories = ["blog","How to"]
 tags = ["Homebrew","コマンド"]
 date = "2021-07-01"
 description = "今回はPCを購入したら入れておくべきパッケージ管理であるHomebrewのインストール方法を紹介していきます。"
@@ -92,9 +92,11 @@ https://formulae.brew.sh/formula/git#default
 
 ## 3. 参考サイト等
 
-・PATHを通すとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典
-https://wa3.i-3-i.info/word18471.html
+* PATHを通すとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典
 
-・Homebrew　macOS（またはLinux）用パッケージマネージャー
-https://brew.sh/index_ja.html
+    https://wa3.i-3-i.info/word18471.html
+
+* Homebrew　macOS（またはLinux）用パッケージマネージャー
+
+    https://brew.sh/index_ja.html
 

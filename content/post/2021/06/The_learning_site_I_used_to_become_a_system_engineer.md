@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["学習方法","How to"]
+categories = ["blog","学習方法","How to"]
 tags = ["文系女子","学習サイト","プログラマー"]
 date = "2021-06-28"
 description = "今回は文系出身の私がどうやって知識（主にプログラミングについて）をつけているのか共有していきます。"

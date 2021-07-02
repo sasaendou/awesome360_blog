@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["ライフハック","How to","スマート化"]
+categories = ["blog","ライフハック","How to"]
 tags = ["How to"]
 date = "2021-06-30"
 description = "今回はIKEAのトロードフリがコスパ最強でスマホで簡単に操作ができるのでシェアします!"

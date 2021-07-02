@@ -1,7 +1,7 @@
 +++
 author = "sasaendo"
-categories = ["仕事","転職","ライフワーク"]
-tags = ["転職","1年目"]
+categories = ["blog","仕事","ライフワーク"]
+tags = ["仕事","転職","1年目"]
 date = "2021-06-27"
 description = "今回は新卒1年目で転職した私が転職を考える際にふと浮かぶ”石の上にも三年”について考えてみました。"
 featured = "I_thought_job_change.jpg"
