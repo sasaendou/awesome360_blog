@@ -76,7 +76,7 @@ brew install --cask visual-studio-code
 
 https://formulae.brew.sh/cask/visual-studio-code#default
 
-### * Github
+### * Git
 
 {{< highlight go >}}
 brew install git
