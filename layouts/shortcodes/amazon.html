@@ -5,10 +5,13 @@
       </a>
     </div>
     <div class="nine columns amazon-info">
-      <a href="{{ .Get "url" }}">
-        <p class="amazon-name" target="_blank">{{ .Get "title" }}</p>
+      <a href="{{ .Get "url" }}" target="_blank">
+        <p class="amazon-name">{{ .Get "title" }}</p>
       </a>
-      <button href="{{ .Get "url" }}" class="amazon-button">amazonで見る</button>
+      <div>
+        {{ .Get "summary" }}
+      </div>
+      <input type="button" value="amazonで見る" onClick="window.open('{{ .Get "url" }}','_blank','')">
     </div>
     <br>
   </div>
