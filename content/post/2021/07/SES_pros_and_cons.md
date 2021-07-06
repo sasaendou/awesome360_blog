@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["blog","転職"]
+categories = ["blog","仕事","転職"]
 tags = ["SES","IT未経験","文系"]
 date = "2021-07-06"
 description = "今回は「SESになるのはやめとけ」という声が多々聞かれるので、実際にSESとして働いていて良かったことと悪かったことを紹介します。"
