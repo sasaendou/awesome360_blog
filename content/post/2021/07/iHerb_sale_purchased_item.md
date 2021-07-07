@@ -15,11 +15,11 @@ type = "post"
 
 セールでだいぶ安く購入することができたので、今回購入したものを紹介していきます。
 
-## 1. {{< url-link "Universal Nutrition, Ultra Whey Pro（ウルトラホエイプロ）、プロテインパウダー、ダブルチョコレートチップ、2.27kg（5ポンド）" "https://iherb.prf.hn/click/camref:1100ljxR8/[p_id:1011l424299]/destination:https%3A%2F%2Fjp.iherb.com%2Fpr%2Funiversal-nutrition-ultra-whey-pro-protein-powder-double-chocolate-chip-5-lb-2-27-kg%2F27290" "target">}} 
+## 1. {{< url-link "Universal Nutrition, Ultra Whey Pro（ウルトラホエイプロ）、プロテインパウダー、ダブルチョコレートチップ、2.27kg（5ポンド）" "https://iherb.prf.hn/click/camref:1100ljxR8/[p_id:1011l424299]/destination:https%3A%2F%2Fjp.iherb.com%2Fpr%2Foptimum-nutrition-gold-standard-100-whey-double-rich-chocolate-5-lbs-2-27-kg%2F27509" "target">}} 
 
 {{< img-post path="/img/2021/07/" file="iHerb_sale01.jpg" alt="iHerb01" >}}
 
-### {{< url-link "気になる方はこちらをチェック！" "https://iherb.prf.hn/click/camref:1100ljxR8/[p_id:1011l424299]/destination:https%3A%2F%2Fjp.iherb.com%2Fpr%2Funiversal-nutrition-ultra-whey-pro-protein-powder-double-chocolate-chip-5-lb-2-27-kg%2F27290" "target">}} 
+### {{< url-link "気になる方はこちらをチェック！" "https://iherb.prf.hn/click/camref:1100ljxR8/[p_id:1011l424299]/destination:https%3A%2F%2Fjp.iherb.com%2Fpr%2Foptimum-nutrition-gold-standard-100-whey-double-rich-chocolate-5-lbs-2-27-kg%2F27509" "target">}} 
 
 以前はiHerbオリジナルブランドのプロテインを買っていたのですが、友人からこっちの方が良い！と進められたので、買ってみました！
 
