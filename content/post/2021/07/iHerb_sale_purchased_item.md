@@ -3,17 +3,17 @@ author = "sasaendo"
 categories = ["ライフハック","Review"]
 tags = ["iHerb","セール","購入品","Review"]
 date = "2021-07-07"
-description = "7月8日まで開催中のサマーセールで購入したものが昨日届いたので、紹介していきます！"
+description = "アラサーOLが新たに購入したものや継続購入しているものを紹介していきます！"
 featured = "iHerb_sale_purchased_item.jpg"
 featuredalt = "iHerb Sale"
 featuredpath = "/img/2021/07/"
 linktitle = ""
-title = "2021年7月8日まで開催中！iHerbのサマーセールで買ったものを紹介"
+title = "アラサーOLがiHerbで最近買ったもの５選を紹介"
 type = "post"
 
 +++
 
-セールでだいぶ安く購入することができたので、今回購入したものを紹介していきます。
+今回はサマーセールを利用してでだいぶ安く購入することができたので、今回購入したものを紹介していきます。
 
 ## 1. {{< url-link "Universal Nutrition, Ultra Whey Pro（ウルトラホエイプロ）、プロテインパウダー、ダブルチョコレートチップ、2.27kg（5ポンド）" "https://iherb.prf.hn/click/camref:1100ljxR8/[p_id:1011l424299]/destination:https%3A%2F%2Fjp.iherb.com%2Fpr%2Foptimum-nutrition-gold-standard-100-whey-double-rich-chocolate-5-lbs-2-27-kg%2F27509" "target">}} 
 
@@ -25,7 +25,7 @@ type = "post"
 
 まだ飲んではいないのですが、まあ美味しいことは間違いないでしょう！
 
-amazonでも売っていたので見てみましたが、amazonより安かったです！
+こちらはamazonでも購入可能です！
 
 {{<amazon
   url="https://amzn.to/3hnMSns"
@@ -43,7 +43,7 @@ BCAAは前々から気になっていました。以前ジムのトレーナー�
 
 味は普通に美味しいです！これで糖分0なのが不思議なくらいです。
 
-同じくamazonより安い！
+こちらも同じくamazonでも購入可能です！
 
 {{<amazon
   url="https://amzn.to/2Uu2RHi"
