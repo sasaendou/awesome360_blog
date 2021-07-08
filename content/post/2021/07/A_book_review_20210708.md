@@ -1,7 +1,7 @@
 +++
 author = "sasaendo"
-categories = [""]
-tags = [""]
+categories = ["blog","Review","book"]
+tags = ["アウトプット","アウトプット大全","book"]
 date = "2021-07-08"
 description = "今回は、「学びを結果に変えるアウトプット大全」を読んだのでシェアします。"
 featured = "A_book_review_20210708.jpg"
