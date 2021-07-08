@@ -87,6 +87,6 @@ type = "post"
 
 {{<amazon
   url="https://amzn.to/3r1gA4Q"
-  title="お金や人脈、学歴はいらない！　情報だけ武器にしろ。 (ポプラ新書)"
+  title="学びを結果に変えるアウトプット大全"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07FZWZPDS&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
