@@ -91,7 +91,7 @@ GoogleAdSenseは比較的通過できるという声もあるようなので難�
 
 まだ取得していない方がいれば是非以下の記事も見てみてください。
 
-> Google Domainsで「独自ドメイン」を取得する方法(  https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/)
+> Google Domainsで「独自ドメイン」を取得する方法( https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/)
 
 最後までお読みいただきありがとうございます！
 
