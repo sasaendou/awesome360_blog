@@ -9,7 +9,7 @@
       <p class="amazon-name">{{ .Get "title" }}</p>
     </a>
     <div>
-    {{ .Get "summary" }}
+    <p>{{ .Get "summary" }}</p>
     </div>
     <input type="button" value="amazon" onClick="window.open('{{ .Get "url" }}','_blank','')">
   </div>
