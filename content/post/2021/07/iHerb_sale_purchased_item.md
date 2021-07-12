@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["ライフハック","Review"]
+categories = ["blog","ライフハック","Review"]
 tags = ["iHerb","セール","購入品","Review"]
 date = "2021-07-07"
 description = "アラサーOLが新たに購入したものや継続購入しているものを紹介していきます！"
