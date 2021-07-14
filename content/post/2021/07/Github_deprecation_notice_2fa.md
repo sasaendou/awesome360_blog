@@ -2,7 +2,7 @@
 author = "sasaendo"
 categories = ["blog","How to"]
 tags = ["Github","２段階認証","個人アクセストークン","キーチェーンアクセス"]
-date = "2021-07-12"
+date = "2021-07-13"
 description = "GithubからDeprecation Noticeのメールが来たので、対応方法をシェアします。"
 featured = "Github_deprecation_notice_2fa.jpg"
 featuredalt = "Github deprecation notice"
