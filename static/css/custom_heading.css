@@ -1,0 +1,5 @@
+#content h2 {
+    color: #66CDAA;/*文字色*/
+    /*線の種類（点線）2px 線色*/
+    border-bottom: dashed 2px #66CDAA;
+  }

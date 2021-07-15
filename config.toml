@@ -18,6 +18,8 @@ canonifyURLs = true
   navbarTitle          = "Awesome360"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/post/"
+  
+
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
@@ -59,6 +61,7 @@ canonifyURLs = true
   # customJS             = ["default", "/path/to/file"]
   customCSS            = ["default"]
   customJS             = ["default"]
+  customCSS_POST       = ["default", "/css/custom_heading.css"]
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = false # set to true to disable Highlight
