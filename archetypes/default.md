@@ -2,7 +2,7 @@
 author = "sasaendo"
 categories = [""]
 tags = [""]
-date = "2021-07-13"
+date = "2021-07-17"
 description = ""
 featured = ""
 featuredalt = ""
@@ -19,6 +19,14 @@ type = "post"
 
 {{<amazon
   url=""
+  title=""
+  summary=""
+  imageUrl=""
+ >}}
+
+{{<affiliate
+  amazon-url=""
+  rakuten-url=""
   title=""
   summary=""
   imageUrl=""

@@ -103,7 +103,7 @@ type = "post"
 映像美と音楽が最高なのでみて欲しい作品ですね。
 
 {{<amazon
-  url=""
+  url="https://amzn.to/3wNwpgs"
   title="ラ・ラ・ランド(字幕版)"
   summary="夢を叶えたい人々が集まる街、ロサンゼルス。映画スタジオのカフェで働くミアは女優を目指していたが、何度オーディションを受けても落ちてばかり。ある日、ミアは場末の店で、あるピアニストの演奏に魅せられる。彼の名はセブ（セバスチャン）、いつか自分の店を持ち、大好きなジャズを思う存分演奏したいと願っていた。やがて二人は恋におち、互いの夢を応援し合う。しかし、セブが店の資金作りのために入ったバンドが成功したことから、二人の心はすれ違いはじめる・・・。(C)2017 Summit Entertainment, LLC. All Rights Reserved."
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0714LYZ3G&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
