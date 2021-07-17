@@ -31,7 +31,7 @@ type = "post"
 そんな初心者だった私がどのサイトを使って勉強しているのか以下で紹介します！
 
 ## 2. フロントの勉強や仮想環境の勉強に最適！「ドットインストール」
-「ドットインストール」： https://dotinstall.com/
+「ドットインストール」： {{< url-link "https://dotinstall.com/" "https://dotinstall.com/" "target">}}
 
 一番初めにフロントエンドを触れたのがドットインストールです！
 
@@ -42,7 +42,7 @@ type = "post"
 環境設定から教えてくれるので、本当に初心者の方から勉強を進めることができます！
 
 ## 3. プログラミング言語の勉強に役立った「Progate」
-「Progate」： https://prog-8.com/
+「Progate」： {{< url-link "https://prog-8.com/" "https://prog-8.com/" "target">}}
 
 イラストでわかりすく学習を進められるのがProgateです！
 
@@ -51,7 +51,7 @@ type = "post"
 私は無料会員でしか使用したことがないのですが、有料会員になると受講できる言語等がふえるようです。
 
 ## 4. 動画でわかりやすい「Udemy」
-「Udemy」： https://www.udemy.com/
+「Udemy」： {{< url-link "https://www.udemy.com/" "https://www.udemy.com/" "target">}}
 
 Udemyも動画で学べる教材になります。
 
@@ -66,7 +66,7 @@ Udemyも動画で学べる教材になります。
 もしセール中とかだったらTwitterとかで共有するので、よかったらフォローしてください。
 
 ## 5. 資格の勉強に役立つ「Ping-t」
-「Ping-t」： https://ping-t.com/
+「Ping-t」： {{< url-link "https://ping-t.com/" "https://ping-t.com/" "target">}}
 
 こちらは資格系になります。エンジニアに資格は不要派なのですが、SESの為、そんなことも言ってられません。そんな時に活用しているのがPing-tになります。
 

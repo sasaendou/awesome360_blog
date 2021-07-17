@@ -70,7 +70,7 @@ SEOの観点からみても、不変であることが有利なのは言うま�
 また、現在人気のドメイン取得サイトが安価に取得できたりしますが、Google Domainsで独自ドメインを取得すると、
 
 > Googleと同じDNSサーバーを利用できるのでWebサイトへのアクセスが高速化される
-> (引用:Google Domainsで独自ドメインを購入してみる(https://cloud-ace.jp/column/detail93/9))
+> (引用:Google Domainsで独自ドメインを購入してみる( {{< url-link "https://cloud-ace.jp/column/detail93/9" "https://cloud-ace.jp/column/detail93/9" "target">}} ))
 
 高速化は結構大事だと思っています！
 

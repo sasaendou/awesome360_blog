@@ -15,7 +15,7 @@ type = "post"
 
 {{< img-post path="/img/2021/07/" file="" alt="" >}}
 
-{{< url-link "" "" "target">}}
+{{< url-link "title" "URL" "target">}}
 
 {{<amazon
   url=""

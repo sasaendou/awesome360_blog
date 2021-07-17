@@ -66,7 +66,7 @@ Homebrew/homebrew-core (git revision a35xxxxxx; last commit 2021-06-07)
 brew install --cask google-chrome
 {{< / highlight >}}
 
-https://formulae.brew.sh/cask/google-chrome#default
+{{< url-link "https://formulae.brew.sh/cask/google-chrome#default" "https://formulae.brew.sh/cask/google-chrome#default" "target">}}
 
 ### * VSCode
 
@@ -74,7 +74,7 @@ https://formulae.brew.sh/cask/google-chrome#default
 brew install --cask visual-studio-code
 {{< / highlight >}}
 
-https://formulae.brew.sh/cask/visual-studio-code#default
+{{< url-link "https://formulae.brew.sh/cask/visual-studio-code#default" "https://formulae.brew.sh/cask/visual-studio-code#default" "target">}}
 
 ### * Git
 
@@ -82,7 +82,7 @@ https://formulae.brew.sh/cask/visual-studio-code#default
 brew install git
 {{< / highlight >}}
 
-https://formulae.brew.sh/formula/git#default
+{{< url-link "https://formulae.brew.sh/formula/git#default" "https://formulae.brew.sh/formula/git#default" "target">}}
 
 とりあえずはこのくらいです！
 

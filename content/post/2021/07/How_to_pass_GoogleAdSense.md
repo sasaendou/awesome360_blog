@@ -77,8 +77,7 @@ GoogleAdocensの合格基準は明らかになっていませんがこちらは�
 初心者のためのブログ始め方講座さんを参考に、案内ページを構築·実装しました。
 
 当サイトの案内ページをご確認ください。
-
-> 当サイトご利用上の注意事項( https://www.awesome-360.com/notice/ )
+> 当サイトご利用上の注意事項( {{< url-link "https://www.awesome-360.com/notice/" "https://www.awesome-360.com/notice/" "target">}} )
 
 このような形でプライバシーポリシー、免責事項、著作権について記載しています。
 
@@ -91,7 +90,7 @@ GoogleAdSenseは比較的通過できるという声もあるようなので難�
 
 まだ取得していない方がいれば是非以下の記事も見てみてください。
 
-> Google Domainsで「独自ドメイン」を取得する方法( https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/)
+> Google Domainsで「独自ドメイン」を取得する方法( {{< url-link "https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/" "https://www.awesome-360.com/post/2021/06/how_to_get_own_domain/" "target">}} )
 
 最後までお読みいただきありがとうございます！
 

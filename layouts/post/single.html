@@ -7,7 +7,7 @@
         <!-- Post -->
         {{ $.Scratch.Set "h1" true }}
         {{ .Render "content-single" }}
-        {{ range .Site.Params.customCSS_POST }}
+        {{ range .Site.Params.customCSS }}
             <link rel="stylesheet" href="{{ . | absURL}}">
         {{ end }}
     </div>

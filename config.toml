@@ -59,9 +59,8 @@ canonifyURLs = true
   # files by adding the value, "default".
   # customCSS            = ["default", "/path/to/file"]
   # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["default"]
+  customCSS            = ["default", "/css/custom_heading.css"]
   customJS             = ["default"]
-  customCSS_POST       = ["default", "/css/custom_heading.css"]
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = false # set to true to disable Highlight

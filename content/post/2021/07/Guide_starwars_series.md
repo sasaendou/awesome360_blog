@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["blog","Review"]
+categories = ["blog","Review","映画"]
 tags = ["スター・ウォーズ","STAR WARS","映画","アニメーション","ディズニー","Disney","ディズニープラス","Disney plus"]
 date = "2021-07-10"
 description = "今回は2021年の最新作アニメーションシリーズ「バッド・バッチ」も含めたスター・ウォーズ全16作品を時系列順に紹介します！"
@@ -176,6 +176,8 @@ type = "post"
 この作品はエピソード7〜9と同時並行で進んでいきます。
 
 レジスタンス側のお話ですね。
+
+リンクは英語版のものしか見当たらなkったので一応置いておきます。
 
 {{<amazon
   url="https://amzn.to/3jV91uN"
