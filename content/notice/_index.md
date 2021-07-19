@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["プライバシーポリシー","免責事項","著作権・肖像権"]
+categories = []
 date = "2021-06-24"
 description = "当サイトご利用に当たっての注意事項について"
 featured = ""

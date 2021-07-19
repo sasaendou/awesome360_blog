@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "「365日中360日を良い日に。」そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Awesome360"
   # Sets where "View More Posts" links
@@ -59,7 +59,7 @@ canonifyURLs = true
   # files by adding the value, "default".
   # customCSS            = ["default", "/path/to/file"]
   # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["default", "/css/custom_heading.css"]
+  customCSS            = ["default", "/css/custom_heading.css", "/css/custom_affiliate.css"]
   customJS             = ["default"]
 
   # options for highlight.js (version, additional languages, and theme)

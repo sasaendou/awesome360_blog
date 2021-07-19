@@ -12,11 +12,9 @@
         <div>
           <p>{{ .Get "summary" }}</p>
         </div>
-        <input type="button" value="amazon" onClick="window.open('{{ .Get "amazon-url" }}','_blank','')">
       </div>
-    </div>
-    <div class="rakuten-info">
-        <input type="button" value="rakuten" onClick="window.open('{{ .Get "rakuten-url" }}','_blank','')">
+      <a href="{{ .Get "amazon-url" }}" target="_blank" id="amazon-btn" class="affiliate-btn">Amazon</a>
+      <a href="{{ .Get "rakuten-url" }}" target="_blank" id="rakuten-btn" class="affiliate-btn">楽天</a>
     </div>
     <br>
   </div>

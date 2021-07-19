@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["blog","review"]
+categories = ["blog","Review"]
 tags = ["1R","ロフト","ロフト付き物件","メリット","デメリット"]
 date = "2021-07-14"
 description = "今回は私がロフト付き物件に一人暮らしをしていた際に感じたメリットとデメリットをシェアします。"

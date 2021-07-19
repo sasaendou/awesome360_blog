@@ -102,3 +102,11 @@ type = "post"
 「会社が辞められない！」そんな人の力に少しでもなれたら幸いです！
 
 最後までお読みいただきありがとうございました！
+
+{{<affiliate
+  amazon-url="https://amzn.to/3ioIkMI"
+  rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00tjvs4.2bo1153b.g00tjvs4.2bo12651%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Frenet20%252Fr0012558291%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Frenet20%252Fi%252F11049106%252F" rel="nofollow"
+  title="彼氏にフラれ仕事もクビ。人生詰んだので「成功の経済学」で運命変えることにした。"
+  summary="人生を成功に導くカギは、行動経済学にあった! 人生詰んだ女性が過去と未来の「タラレバ」を捨て、運命を切り開くエンタメ小説。"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4074198975&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
+ >}}

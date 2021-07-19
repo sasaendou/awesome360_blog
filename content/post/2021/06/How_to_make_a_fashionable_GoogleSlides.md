@@ -1,6 +1,6 @@
 +++
 author = "sasaendo"
-categories = ["blog","How to","時短"]
+categories = ["blog","How to"]
 tags = ["Google","GoogleSlides","PawerPoint"]
 date = "2021-06-25"
 description = "今回は簡単にそして時間をかけずにおしゃれなGoogle Slidesを作る方法を共有します。"

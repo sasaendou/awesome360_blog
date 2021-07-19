@@ -1,0 +1,43 @@
+
+
+.affiliate-btn {
+    position: relative;
+    top: auto;
+    margin: 5px;
+    padding: 0 !important;
+    padding-bottom: 10px !important;
+    width: 8em;
+    color: #ffffff;
+    display: inline-block;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
+    outline: none;
+    text-align: center;
+}
+
+.affiliate-btn:hover {
+    color: #ffffff !important;
+}
+ 
+.affiliate-btn:active {
+    position: relative;
+    top: 2px;
+    box-shadow: none;
+    color: #e2e2e2;
+    outline: none;
+}
+ 
+#amazon-btn {
+    background: #ff9900;
+}
+#rakuten-btn {
+    background: #bf0000;
+}
+
+#amazon-btn:hover {
+    background: #f09102;
+}
+#rakuten-btn:hover {
+    background: #ad0000;
+}
