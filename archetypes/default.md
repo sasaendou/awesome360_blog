@@ -35,3 +35,9 @@ type = "post"
 {{< highlight go >}}
 
 {{< / highlight >}}
+
+{{< youtube watch?v=の後 >}}
+
+{{<border
+  border=""
+ >}}
