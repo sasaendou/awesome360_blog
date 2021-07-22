@@ -9,7 +9,9 @@
       <p class="amazon-name">{{ .Get "title" }}</p>
     </a>
     <div>
-    <p>{{ .Get "summary" }}</p>
+    <blockquote>
+      <p>{{ .Get "summary" }}</p>
+    </blockquote>
     </div>
     <input type="button" value="amazonで見る" onClick="window.open('{{ .Get "url" }}','_blank','')">
   </div>

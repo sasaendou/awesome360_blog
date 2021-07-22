@@ -1,11 +1,11 @@
 +++
 author = "sasaendo"
-categories = ["blog","Review","映画"]
-tags = ["スター・ウォーズ","STAR WARS","映画","アニメーション","ディズニー","Disney","ディズニープラス","Disney plus"]
+categories = ["blog","Review","映画","海外ドラマ"]
+tags = ["スター・ウォーズ","マンダロリアン","時系列","STAR WARS","映画","アニメーション","ディズニー","Disney","ディズニープラス","Disney plus"]
 date = "2021-07-10"
 description = "今回は2021年の最新作アニメーションシリーズ「バッド・バッチ」も含めたスター・ウォーズ全16作品を時系列順に紹介します！"
 featured = "Starwars_series_guide.jpg"
-featuredalt = "Starwars series guide"
+featuredalt = "StarWars series guide"
 featuredpath = "/img/2021/07/"
 linktitle = ""
 title = "【2021年最新版】時系列順でスター・ウォーズ全１６作品を紹介"
@@ -13,12 +13,17 @@ type = "post"
 
 +++
 
-今回は最近「バッド・バッチ」が出たので、改めて時系列順にスター・ウォーズ全１６作品をまとめてみました。
-
+今回は最近、最新作アニメーションシリーズ「バッド・バッチ」が出たので、時系列順にスター・ウォーズ全１６作品をまとめてみました。
 
 ## 1. スター・ウォーズ　エピソード1／ファントム・メナス（1999年公開）
 
 公開順では4作目ですが、時系列順では1作目になります。
+
+ユアン・マクレガー若い！
+
+エピソード１〜３はCG技術が進歩したことで、より壮大なアクションシーンを楽しむことができます。
+
+スター・ウォーズの起点となる本作品は是非見ていただきたいです。
 
 {{<amazon
   url="https://amzn.to/3qVfYxr"
@@ -29,7 +34,9 @@ type = "post"
 
 ## 2. スター・ウォーズ　エピソード2／クローンの攻撃（2002年公開）
 
-もっともライトセーバーが出てくる回なのではないでしょうか？
+もっともライトセーバーが出てくるのが本作ではないでしょうか？
+
+アクションシーンも素晴らしいですし、アナキンの生意気な所も最高です。
 
 {{<amazon
   url="https://amzn.to/3xlmaRP"
@@ -41,7 +48,14 @@ type = "post"
 ## 3. スター・ウォーズ:クローン・ウォーズ（2008〜放送・配信）
 
 シーズンは1−6に加えて、ファイナルシーズンもあります。
+
 結構ボリュームすごいです。
+
+私はまだ途中ですが、ファン的にはたまらない作品です！
+
+{{< youtube b-cuzYrFbew >}}
+
+.
 
 {{<amazon
   url="https://amzn.to/3dUxhtj"
@@ -50,19 +64,13 @@ type = "post"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013UO2ZH8&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
 
-{{<amazon
-  url="https://amzn.to/3xmlNq6"
-  title="スター・ウォーズ：クローン・ウォーズ＜ファイナル・シーズン／ザ・ロスト・ミッション＞"
-  summary="『スター・ウォーズ』の背景や複雑なキャラクターの感情を描いたコアファン、大人向けのアニメーション作品として、過去には中止が発表されたファン待望の幻のシーズン。ブルーレイには、全13話に加えて未完成の4つのエピソードも収録されるなど、ファン必携の作品!"
-  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01BF3NA34&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
- >}}
-
-
 ## 4. スター・ウォーズ　エピソード3／シスの復讐（2005年公開）
 
 私的には「なるほどー。」とエピソード4に繋がる作品でした。
 
 オビワン・ケノービ（ユアン・マクレガー）が好きなので、たくさん出てきて嬉しかったですね。
+
+「シスの復讐」と言う副題はすごくしっくりきます。
 
 {{<amazon
   url="https://amzn.to/36nt9xD"
@@ -71,21 +79,26 @@ type = "post"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VM67AM2&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
 
-
 ## 5. スター・ウォーズ：バッド・バッチ（2021年〜配信開始）
 
 スター・ウォーズの2021年の最新作！
 
-スター・ウォーズ：バッド・バッチ
+クローン達の話ですね。任務を終えたクローンはどのような生き方をしていくのか？
 
-> 激変する銀河で、「バッド・バッチ」は自分たちの進む道を探す。 
-引用： https://disneyplus.disney.co.jp/view/#!/series/detailed/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA%EF%BC%9A%E3%83%90%E3%83%83%E3%83%89%E3%83%BB%E3%83%90%E3%83%83%E3%83%81/873369
+スター・ウォーズがまだまだ終わらない！
+
+{{< youtube ffg5pkg_t4c >}}
+.
 
 ## 6. ハン・ソロ／スター・ウォーズ・ストーリー（2018年公開）
 
-なんで彼がハン・ソロという名前なのか。
+なぜ彼がハン・ソロという名前なのか。
 
-そういったことも描かれています。
+この物語を見ればわかります。
+
+どのようにしてハン・ソロが出来上がったのか？
+
+ミレニアム・ファルコンとの出会いも描かれています！
 
 {{<amazon
   url="https://amzn.to/3qVnVTj"
@@ -111,7 +124,7 @@ type = "post"
 
 個人的に一番泣きました。
 
-スター・ウォーズの初期が好きと言う肩にも見ていただきたいです。
+スター・ウォーズの初期が好きと言う方にも見ていただきたいです。
 
 {{<amazon
   url="https://amzn.to/3yNWU7h"
@@ -126,6 +139,8 @@ type = "post"
 
 そんな瞬間で入れたらいいなーとHERORSのヒロの能力が欲しいと思います。
 
+若きマーク・ハミルにも注目です！
+
 {{<amazon
   url="https://amzn.to/2TNNiu3"
   title="スター・ウォーズ エピソード4／新たなる希望 (字幕版)"
@@ -136,6 +151,8 @@ type = "post"
 ## 10. スター・ウォーズ　エピソード5／帝国の逆襲（1980年公開）
 
 正直エピソード4はなかなかルークがライトセーバー取らないので、あれ？って思ってたんですがやっと！って思いました。
+
+大人気のボバ・フェットも登場しますよ！
 
 {{<amazon
   url="https://amzn.to/2UtqWhy"
@@ -150,13 +167,14 @@ type = "post"
 
 ただ反響がすごすぎてエピソード1〜３が出たと聞いたこともあります。
 
+エピソード1〜３を見ると、副題である「ジェダイの帰還」の意味がよりわかるかと思います。
+
 {{<amazon
   url="https://amzn.to/3wrTo0q"
   title="スター・ウォーズ　エピソード6／ジェダイの帰還(字幕版)"
   summary="壮大なるサーガのクライマックス、フォースの勝利を描く「スター・ウォーズ　エピソード６／ジェダイの帰還」デジタルで登場。帝国軍がより強力な第２デス・スターの建造を進めている中、反乱軍は総力を結集しデス・スターへ攻撃の準備を計画していた。一方、ルーク・スカイウォーカーは、邪悪な皇帝の前でダース・ベイダーとの最後の戦いに挑む。"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VM676Q2&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
-
 
 ## 12. スター・ウォーズ：マンダロリアン（2019年〜配信） 
 
@@ -165,6 +183,10 @@ type = "post"
 最初はそう思っていたのですが、いつの間にか見入ってました。
 
 これも感動作品ですね。
+
+{{< youtube WowxroGqYng >}}
+
+.
 
 スター・ウォーズ：マンダロリアン
 
@@ -177,23 +199,22 @@ type = "post"
 
 レジスタンス側のお話ですね。
 
-リンクは英語版のものしか見当たらなkったので一応置いておきます。
+可愛らしいドロイドのBB-8も出てきますよ！
 
-{{<amazon
-  url="https://amzn.to/3jV91uN"
-  title="スター・ウォーズ：レジスタンス"
-  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07SR84KW6&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
- >}}
+{{< youtube jNb8a_rbZJs >}}
+
+.
 
 > 銀河帝国の残党から生まれたファースト・オーダーが勢力を拡大する中、レイア姫によりレジスタンスが組織された。ポー・ダメロンに誘われてレジスタンスに加わる若きパイロット、カズーダ・ジオノは、BB-8と共にファースト・オーダーの脅威を探るスパイとして極秘任務に挑む！
 >引用： https://starwars.disney.co.jp/tv/resistance.html
-
 
 ## 14. スター・ウォーズ／フォースの覚醒（2015年公開）
 
 初めて劇場で見ることができた作品です！
 
 さまざまなキャラクターが出るだけで興奮しました！
+
+この時は果たして誰がジェダイに？と思いながら観ていました。
 
 {{<amazon
   url="https://amzn.to/3wmVWNr"
@@ -202,12 +223,11 @@ type = "post"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DISNQA6&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
 
-
 ## 15. スター・ウォーズ/最後のジェダイ（2017年公開）
 
 エピソード8の主はルーク・スカイウォーカーって感じです。
 
-映像美が最高なので見ていただきたいですね。
+映像美が最高なので、見ていただきたいですね。
 
 {{<amazon
   url="https://amzn.to/36nx0e5"
@@ -215,7 +235,6 @@ type = "post"
   summary="『スター・ウォーズ/フォースの覚醒』でついに登場した伝説のジェダイ、ルーク・スカイウォーカー。彼の出現は銀河に何をもたらすのか?そして、フォースを覚醒させたレイとダース・ベイダーを継ごうとするカイロ・レンは、光と闇のせめぎ合いの中で決戦の時を迎える。銀河の支配をもくろむ組織ファースト・オーダーと、それに立ち向かうレジスタンス。両軍を率いるスノークとレイア。それぞれの運命に立ち向かいながら、銀河を舞台にした壮絶なバトルがいよいよ始まる! そして、ジェダイは受け継がれるのか…。"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07C4PY3MC&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
-
 
 ## 16. スター・ウォーズ／スカイウォーカーの夜明け（2019年公開）
 
