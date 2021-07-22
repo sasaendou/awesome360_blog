@@ -40,44 +40,50 @@ TRÅDFRI（トロードフリ）の魅力がわかったところで早速準備
 
 今回は私が実際に買ったものを紹介します。
 
-### * TRÅDFRI トロードフリ ゲートウェイ
-{{<amazon
-  url="https://amzn.to/3xa2oZj"
+### ・ TRÅDFRI トロードフリ ゲートウェイ
+{{<affiliate
+  amazon-url="https://amzn.to/3xa2oZj"
+  rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00t15c4.2bo113e1.g00t15c4.2bo1212c%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmultibox%252Ftf-ik50337815%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmultibox%252Fi%252F10020657%252F"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B085HKRRY5&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
  >}}
 
-
-### * TRÅDFRI トロードフリ リモコン
-{{<amazon
-  url="https://amzn.to/3qCCpr0"
+### ・ TRÅDFRI トロードフリ リモコン
+{{<affiliate
+  amazon-url="https://amzn.to/3qCCpr0"
+  rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00t15c4.2bo113e1.g00t15c4.2bo1212c%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmultibox%252Ftf-ik40443128%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmultibox%252Fi%252F10020658%252F"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B085HFWLMN&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
  >}}
 
-
-### * TRÅDFRI トロードフリ 調光器セット
-{{<amazon
-  url="https://amzn.to/3h6kANU"
+### ・ TRÅDFRI トロードフリ 調光器セット
+{{<affiliate
+  amazon-url="https://amzn.to/3h6kANU"
+  rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00rs7o4.2bo113ed.g00rs7o4.2bo12a2c%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fwebyselection%252F10435931%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fwebyselection%252Fi%252F10075628%252F"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B08GWYVXTW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
  >}}
 
 
-### * TRÅDFRI トロードフリ LED電球 E26 1000ルーメン
-{{<amazon
-  url="https://amzn.to/3ya8NUA"
-  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B085HK41ZG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
+### ・ TRÅDFRI トロードフリ LED電球 E26 1000ルーメン
+
+{{<affiliate
+  amazon-url="https://amzn.to/3x310qQ"
+  rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00s1et4.2bo11c27.g00s1et4.2bo123dd%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fpolori%252Fikea-50408493%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fpolori%252Fi%252F10008005%252F"
+  imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XLGQZPF&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
 
 
-### * TRÅDFRI トロードフリ LED電球 E17 440ルーメン
-{{<amazon
-  url="https://amzn.to/3AkMRb2"
+### ・ TRÅDFRI トロードフリ LED電球 E17 440ルーメン
+
+{{<affiliate
+  amazon-url="https://amzn.to/3AkMRb2"
+  rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00rs7o4.2bo113ed.g00rs7o4.2bo12a2c%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fwebyselection%252F424320%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fwebyselection%252Fi%252F10075035%252F"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B095C1BDN1&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
  >}}
 
+### ・ TRÅDFRI トロードフリ ショートカットボタン
 
-### * TRÅDFRI トロードフリ ショートカットボタン
-{{<amazon
-  url="https://amzn.to/3h7vCm4"
+{{<affiliate
+  amazon-url="https://amzn.to/3h7vCm4"
+  rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00rs7o4.2bo113ed.g00rs7o4.2bo12a2c%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fwebyselection%252F80356384%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fwebyselection%252Fi%252F10078926%252F"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B095BM91R3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=awesome3600a-22"
  >}}
 
