@@ -3,3 +3,10 @@
     /*線の種類（点線）2px 線色*/
     border-bottom: dashed 2px #66CDAA;
   }
+
+#content h3 {
+  padding: 0.5em;/*文字周りの余白*/
+  color: #494949;/*文字色*/
+  background: #f7fcfa;/*背景色*/
+  border-left: solid 5px #66CDAA;/*左線（実線 太さ 色）*/
+}
