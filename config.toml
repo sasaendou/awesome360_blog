@@ -91,9 +91,9 @@ canonifyURLs = true
 [params.intro]
   header    = "Awesome360"
 
-  paragraph = "「365日中360日を良い日に。」　　そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
+  paragraph = "「365日中360日を良い日に。」そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
 
-  about     = "「365日中360日を良い日に。」　　そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
+  about     = "「365日中360日を良い日に。」そんな思いがあるブログです。SESなOLの日々を綴りながら、役立つ情報を発信していきます。"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.

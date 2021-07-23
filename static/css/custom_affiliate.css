@@ -1,12 +1,23 @@
 
+.affiliate-box {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 1px rgba(160, 160, 160, 0.3);
+    border-radius: 10px;/*角の丸み*/
+}
+.affiliate-box p {
+    margin: 0; 
+    padding: 0;
+}
 
 .affiliate-btn {
     position: relative;
     top: auto;
-    margin: 5px;
+    margin: 4px;
     padding: 0 !important;
-    padding-bottom: 10px !important;
-    width: 8em;
+    padding-bottom: 5px !important;
+    width: 7em;
     color: #ffffff;
     display: inline-block;
     border: none;
@@ -40,4 +51,9 @@
 }
 #rakuten-btn:hover {
     background: #ad0000;
+}
+
+/*amazon affiliate*/
+blockquote p:empty {
+    display: none;
 }
