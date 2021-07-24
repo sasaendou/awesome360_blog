@@ -8,7 +8,7 @@ featured = "IT_Web_industry_Information_sites.jpg"
 featuredalt = "IT Web industry Information sites"
 featuredpath = "/img/2021/07/"
 linktitle = ""
-title = "IT・Web業界の人にすすめ情報サイト20選"
+title = "IT・Web業界の人におすすめ情報サイト20選"
 type = "post"
 
 +++
