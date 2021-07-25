@@ -61,7 +61,7 @@ canonifyURLs = true
   # customJS             = ["default", "/path/to/file"]
   customCSS            = ["default", "/css/custom_heading.css", "/css/custom_affiliate.css"]
   customJS             = ["default"]
-  image                = ["/img/main/homepageTopjpeg"]
+  image                = ["/img/main/homepageTop.jpeg"]
   facebookAppId        = ["351572949682748"]
 
   # options for highlight.js (version, additional languages, and theme)
