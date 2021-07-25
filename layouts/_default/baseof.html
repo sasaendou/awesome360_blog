@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ .Site.Title }}{{ if not .IsHome }} | {{ index (split .Name "_") 0 }}{{ end }}">
+    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}/images/ogp_vald.png">
+    <meta property="og:site_name" content="vald">
+    <meta property="og:locale" content="en_US">
+    <meta property="fb:app_id" content="615732422350002">
+    <meta name="twitter:site" content="@vdaas_vald">
+    <!-- <meta name="twitter:card" content="summary_large_image"> -->
+    <meta name="twitter:card" content="app">
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico">
+    <title>{{ block "title" . }}
+      <!-- Blocks may include default content. -->
+      {{ .Site.Title }}
+    {{ end }}</title>
+  </head>
+  <body>
+    <!-- Code that all your templates share, like a header -->
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    {{ block "footer" . }}
+    <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+    {{ end }}
+  </body>
+</html>
