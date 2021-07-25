@@ -66,7 +66,7 @@ OSのアップデートやWindowsのアップデートの情報が早いなと�
 
 ▶︎{{< url-link "https://www.watch.impress.co.jp/" "https://www.watch.impress.co.jp/" "target">}}
 
-## @IT
+### @IT
 
 ITエンジニア向けのサイトです。
 
