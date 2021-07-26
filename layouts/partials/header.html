@@ -44,7 +44,7 @@
             <meta property="og:description" content="{{ .Site.Params.description }}" />
         {{- end }}
         <meta property="og:url" content="{{ .Permalink }}">
-        <meta property="og:image" content="{{ .Site.BaseURL }}/img/main/homepageTop.jpeg">
+        <meta property="og:image" content="{{ .Site.BaseURL }}/img/main/homepageTop.jpg">
         <meta property="og:site_name" content="{{ .Site.Title }}">
         <meta property="og:locale" content="ja_JP">
         <meta property="fb:app_id" content="351572949682748">
@@ -55,8 +55,8 @@
 
         {{ template "_internal/twitter_cards.html" . }}
         {{ template "_internal/opengraph.html" . }}
-        <meta property="og:image" content="{{ .Site.BaseURL }}/images/logo.png">
-        <meta property="og:image:type" content="image/png">
+        <!-- <meta property="og:image" content="{{ .Site.BaseURL }}/images/logo.png"> -->
+        <meta property="og:image:type" content="image/jpg">
         <meta property="og:image:width" content="512">
         <meta property="og:image:height" content="512">
         {{ template "_internal/schema.html" . }}
