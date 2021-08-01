@@ -2,7 +2,7 @@
 author = "sasaendo"
 categories = [""]
 tags = [""]
-date = "2021-07-17"
+date = "2021-08-17"
 description = ""
 featured = ""
 featuredalt = ""
@@ -13,7 +13,7 @@ type = "post"
 
 +++
 
-{{< img-post path="/img/2021/07/" file="" alt="" >}}
+{{< img-post path="/img/2021/08/" file="" alt="" >}}
 
 {{< url-link "title" "URL" "target">}}
 
