@@ -129,4 +129,8 @@ type = "post"
   imageUrl="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4047914576&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=awesome3600a-22&language=ja_JP"
  >}}
 
+### 関連記事
 
+* 第2作目【書評】ダン・ブラウン著「ダ・ヴィンチ・コード」を読んで
+
+	https://www.awesome-360.com/post/2021/07/book_review_the_da_vinci_code/
