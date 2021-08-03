@@ -133,4 +133,4 @@ type = "post"
 
 * 第2作目【書評】ダン・ブラウン著「ダ・ヴィンチ・コード」を読んで
 
-	https://www.awesome-360.com/post/2021/07/book_review_the_da_vinci_code/
+	https://www.awesome-360.com/post/2021/08/book_review_the_da_vinci_code/
