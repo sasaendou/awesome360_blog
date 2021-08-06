@@ -13,7 +13,7 @@ type = "post"
 
 +++
 
-今回は私が以前の記事（https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/）でおすすめした、学習サイトUdemyを改めて紹介します。
+今回は私が以前の記事（ https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/ ）でおすすめした、学習サイトUdemyを改めて紹介します。
 
 ## 目次
 1. Udemyとは
@@ -53,7 +53,7 @@ Udemyとは動画でさまざまな事を学ぶことができる学習サイト
 
 ### 1. 豊富な講座
 
-受講登録されている講座は4億8,000万（公式サイトよりhttps://www.udemy.com/teaching/?ref=teach_footer）。
+受講登録されている講座は4億8,000万（{{< url-link "公式サイトより" "https://www.udemy.com/teaching/?ref=teach_footer" "target">}}）。
 
 とにかく豊富な講座が多いです。
 
