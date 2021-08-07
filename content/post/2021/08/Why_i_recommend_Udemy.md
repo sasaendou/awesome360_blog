@@ -98,3 +98,10 @@ Udemyはセールの時に講座を買うのがおすすめです！
 最後まで見ていただきありがとうございます！
 
 {{< udemy216 >}}
+
+### 関連記事
+
+* 文系女子がシステムエンジニアになる為に使った学習サイトを紹介
+
+  https://www.awesome-360.com/post/2021/06/the_learning_site_i_used_to_become_a_system_engineer/
+
