@@ -8,7 +8,7 @@ featured = "I_thought_job_change.jpg"
 featuredalt = "I thought job change"
 featuredpath = "/img/2021/06/"
 linktitle = ""
-title = "新卒1年目で転職した私が”石の上にも三年’について考えてみた"
+title = "【新卒1年目】で【転職】した私が”石の上にも三年”について考えてみた"
 type = "post"
 
 +++

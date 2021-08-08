@@ -103,6 +103,12 @@ type = "post"
 
 最後までお読みいただきありがとうございました！
 
+### 【関連記事】
+* ”転職”を決意した時にやるべきこと3つ
+
+  https://www.awesome-360.com/post/2021/07/what_to_do_when_you_decide_to_change_jobs/
+
+
 {{<affiliate
   amazon-url="https://amzn.to/3ioIkMI"
   rakuten-url="https://rpx.a8.net/svt/ejp?a8mat=3HG9XA+EVU582+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00tjvs4.2bo1153b.g00tjvs4.2bo12651%2Fa21071121224_3HG9XA_EVU582_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Frenet20%252Fr0012558291%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Frenet20%252Fi%252F11049106%252F" rel="nofollow"

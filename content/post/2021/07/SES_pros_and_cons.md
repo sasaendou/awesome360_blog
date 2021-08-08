@@ -1,14 +1,14 @@
 +++
 author = "sasaendo"
-categories = ["blog","仕事","転職"]
-tags = ["SES","IT未経験","文系"]
+categories = ["blog","仕事","転職","ライフワーク"]
+tags = ["SES","IT未経験","文系","転職","SES企業"]
 date = "2021-07-06"
 description = "今回は「SESになるのはやめとけ」という声が多々聞かれるので、実際にSESとして働いていて良かったことと悪かったことを紹介します。"
 featured = "SES_pros_and_cons.jpg"
 featuredalt = "SES's pros and cons"
 featuredpath = "/img/2021/07/"
 linktitle = ""
-title = "IT未経験の文系女子がSES企業に転職して良かったことと悪かったこと"
+title = "【IT未経験】の文系女子がSES企業に転職したメリットとデメリット"
 type = "post"
 
 +++
@@ -80,7 +80,6 @@ SESとは「System Engineering Service」の略です。
 ### * 技術力の底上げは頑張り次第
 
 これはどこに行っても同じかもしれませんが、技術力をあげるには自己学習をしていくしかありません。私もこのブログも含めて日々勉強中です。
-
 
 ## 4. まとめ
 
