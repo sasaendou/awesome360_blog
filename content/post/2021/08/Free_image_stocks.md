@@ -97,7 +97,7 @@ Unsplashの画像多いと思ってたんですが、Unsplash APIを使ってい
 
 見ているだけでお腹が減ってきます。
 
-トップのPopular Tagsのの機能が結構使えます。
+トップのPopular Tagsの機能が結構使えます。
 
 ▶ {{< url-link "https://www.foodiesfeed.com/" "https://www.foodiesfeed.com/" "target">}}
 
